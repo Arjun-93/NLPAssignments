@@ -5427,11 +5427,3 @@ s,t,el,l,a,r,i,u,m
 th,e,y,d
 p,e,t,e,r
 r,o,b,b,e,d
-$
-h
-l
-y
-k
-w
-g
-v

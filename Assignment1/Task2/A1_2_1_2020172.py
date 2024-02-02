@@ -42,8 +42,41 @@ class BigramLM:
         next_words, probabilities = zip(*next_word_probs.items())
         chosen_word = np.random.choice(next_words, p=probabilities)
         return chosen_word
+    
+    ############################################################
+    # Added Laplace and KneserNey Smoothing 
+    def calculate_probabilities_LS(self):
+        self.bigram_probabilities = defaultdict(dict)
+        for current_word, next_word_counts in self.bigramCounts.items():
+            total_count = sum(next_word_counts.values())
+            for next_word, count in next_word_counts.items():
+                probability = (count + 1) / (total_count + len(self.vocabulary))
+                self.bigram_probabilities[current_word][next_word] = probability
+                
+    def LaplaceSmoothing(self, k=1):
+        self.calculate_probabilities_LS()
+        for current_word, next_word_counts in self.bigramCounts.items():
+            for next_word in next_word_counts:
+                # Use Laplace-smoothed probabilities
+                self.bigram_probabilities[current_word][next_word] = self.bigram_probabilities[current_word][next_word]
 
-with open('Assignment1\corpus.txt', 'r') as f:
+        # Recalculate probabilities after smoothing+
+        self.calculate_probabilities()
+        
+    # implement the Good-Turing Smoothing function who returns the discounted count
+    # assuming d = 0.75 for KneserNey Smoothing
+    def KneserNeySmoothing(self):
+        self.unigramCounts = defaultdict(int)
+        for current_word, next_word_counts in self.bigramCounts.items():
+            for next_word in next_word_counts:
+                self.unigramCounts[next_word] += 1
+        self.calculate_probabilities()
+        for current_word, next_word_counts in self.bigramCounts.items():
+            for next_word in next_word_counts:
+                self.bigram_probabilities[current_word][next_word] = (max(self.bigram_probabilities[current_word][next_word] - 0.75, 0) + 0.75 * len(self.bigram_probabilities[current_word]) * self.unigramCounts[next_word] / sum(self.unigramCounts.values())) / sum(self.bigram_probabilities[current_word].values())
+        self.calculate_probabilities()
+
+with open('NLPAssignments\\Assignment1\\corpus.txt', 'r') as f:
     corpus = f.readlines()
 
 # Creating a bigram model
@@ -52,6 +85,18 @@ bigram_model.learn_model(corpus)
 bigram_model.calculate_probabilities()
 
 # Predict the next word given a current word
+# current_word = "language"
+# next_word = bigram_model.predict_next_word(current_word)
+# print(f"The predicted next word after '{current_word}' is '{next_word}'")
+
+# Laplace Smoothing
+bigram_model.LaplaceSmoothing()
 current_word = "language"
 next_word = bigram_model.predict_next_word(current_word)
 print(f"The predicted next word after '{current_word}' is '{next_word}'")
+
+# # KneserNey Smoothing
+# bigram_model.KneserNeySmoothing()
+# current_word = "language"
+# next_word = bigram_model.predict_next_word(current_word)
+# print(f"The predicted next word after '{current_word}' is '{next_word}'")
