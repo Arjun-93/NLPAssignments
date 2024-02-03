@@ -76,7 +76,7 @@ class BigramLM:
                 self.bigram_probabilities[current_word][next_word] = (max(self.bigram_probabilities[current_word][next_word] - 0.75, 0) + 0.75 * len(self.bigram_probabilities[current_word]) * self.unigramCounts[next_word] / sum(self.unigramCounts.values())) / sum(self.bigram_probabilities[current_word].values())
         self.calculate_probabilities()
 
-with open('NLPAssignments\\Assignment1\\corpus.txt', 'r') as f:
+with open('NLPAssignments\Assignment1\corpus.txt', 'r') as f:
     corpus = f.readlines()
 
 # Creating a bigram model
@@ -90,13 +90,13 @@ bigram_model.calculate_probabilities()
 # print(f"The predicted next word after '{current_word}' is '{next_word}'")
 
 # Laplace Smoothing
-bigram_model.LaplaceSmoothing()
-current_word = "language"
-next_word = bigram_model.predict_next_word(current_word)
-print(f"The predicted next word after '{current_word}' is '{next_word}'")
-
-# # KneserNey Smoothing
-# bigram_model.KneserNeySmoothing()
+# bigram_model.LaplaceSmoothing()
 # current_word = "language"
 # next_word = bigram_model.predict_next_word(current_word)
 # print(f"The predicted next word after '{current_word}' is '{next_word}'")
+
+# KneserNey Smoothing
+bigram_model.KneserNeySmoothing()
+current_word = "language"
+next_word = bigram_model.predict_next_word(current_word)
+print(f"The predicted next word after '{current_word}' is '{next_word}'")
