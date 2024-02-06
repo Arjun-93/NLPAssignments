@@ -37,19 +37,13 @@ class BigramLM:
 
     def get_top_n_bigrams_with_probabilities(self, n=None, smoothing=None):
         top_n_bigrams = []
-
-        total_bigrams = sum(self.bigramCounts.values())
-
-        for bigram, count in self.bigramCounts.most_common(n):
+        for bigram, _ in self.bigramCounts.most_common(n):
             probability = 0
-
             if smoothing == 'kneser_ney':
                 probability = self.kneser_ney_smoothing_probability(bigram)
             else:
-                probability = count / total_bigrams
-
+                probability = self.laplace_smoothing_probability(bigram)
             top_n_bigrams.append((bigram, probability))
-
         return top_n_bigrams
     
 def get_top_n_bigram_with_probabilities(corpus, n=None):
@@ -73,7 +67,7 @@ def get_top_n_bigram_with_probabilities(corpus, n=None):
 
 getCwd = os.getcwd()
 
-with open(getCwd + '\\NLPAssignments\\Assignment1\\data\\corpus.txt', 'r') as file:
+with open(getCwd + '\\Assignment1\\data\\corpus.txt', 'r') as file:
     corpus = file.readlines()
 bigram_model = BigramLM()
 bigram_model.train(corpus)
