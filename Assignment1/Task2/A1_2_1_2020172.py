@@ -76,7 +76,7 @@ class BigramLM:
                 self.bigram_probabilities[current_word][next_word] = (max(self.bigram_probabilities[current_word][next_word] - 0.75, 0) + 0.75 * len(self.bigram_probabilities[current_word]) * self.unigramCounts[next_word] / sum(self.unigramCounts.values())) / sum(self.bigram_probabilities[current_word].values())
         self.calculate_probabilities()
 
-with open('NLPAssignments\Assignment1\corpus.txt', 'r') as f:
+with open('NLPAssignments\Assignment1\data\corpus.txt', 'r') as f:
     corpus = f.readlines()
 
 # Creating a bigram model
