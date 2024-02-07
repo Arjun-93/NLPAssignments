@@ -101,7 +101,27 @@ class BigramLM:
         BRIEF:      (Internal method) Performing Knesser-Ney smoothing.
         PARAMETERS: None.
         '''
-        pass
+        self.unigramCounts = defaultdict(int)
+        for current_word, next_word_counts in self.bigramCounts.items():
+            for next_word in next_word_counts:
+                self.unigramCounts[next_word] += 1
+        self.calculate_probabilities()
+        for current_word, next_word_counts in self.bigramCounts.items():
+            for next_word in next_word_counts:
+                self.bigram_probabilities[current_word][next_word] = (max(self.bigram_probabilities[current_word][next_word] - 0.75, 0) + 0.75 * len(self.bigram_probabilities[current_word]) * self.unigramCounts[next_word] / sum(self.unigramCounts.values())) / sum(self.bigram_probabilities[current_word].values())
+        self.calculate_probabilities()
+
+    def calculate_probabilities(self):
+        '''
+        BRIEF:      (Internal method) Calculating the bigram probabilities.
+        PARAMETERS: None.
+        '''
+        self.bigram_probabilities = defaultdict(dict)
+        for current_word, next_word_counts in self.bigramCounts.items():
+            total_count = sum(next_word_counts.values())
+            for next_word, count in next_word_counts.items():
+                probability = count / total_count
+                self.bigram_probabilities[current_word][next_word] = probability
 
     def fit(self, corpus):
         '''

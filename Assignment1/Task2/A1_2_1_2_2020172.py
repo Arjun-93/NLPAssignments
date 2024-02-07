@@ -96,7 +96,7 @@ bigram_model.calculate_probabilities()
 # print(f"The predicted next word after '{current_word}' is '{next_word}'")
 
 # KneserNey Smoothing
-bigram_model.KneserNeySmoothing()
-current_word = "language"
-next_word = bigram_model.predict_next_word(current_word)
-print(f"The predicted next word after '{current_word}' is '{next_word}'")
+# bigram_model.KneserNeySmoothing()
+# current_word = "language"
+# next_word = bigram_model.predict_next_word(current_word)
+# print(f"The predicted next word after '{current_word}' is '{next_word}'")
