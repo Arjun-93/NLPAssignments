@@ -41,11 +41,9 @@ def byte_pair_encoding(data, n, vocab_output_file, merge_rule_output_file, token
         best = max(pairs, key=pairs.get)
         vocab = merge_vocab(best, vocab)
 
-        # Write merge rules to the file
         with open(merge_rule_output_file, 'a') as f_merge:
             f_merge.write(','.join(best) + '\n')
 
-        # Write tokens after each iteration to the file
         with open(tokenized_samples_output_file, 'a') as f_samples:
             for token in vocab:
                 f_samples.write(token.replace(' ', ',') + '\n')
