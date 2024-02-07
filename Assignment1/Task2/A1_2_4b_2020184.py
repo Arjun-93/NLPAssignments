@@ -8,12 +8,11 @@ from sklearn.metrics import accuracy_score, classification_report
 
 
 # Reading the data with headings attached to it
-corpus = pd.read_csv('Assignment1\Task2\\new_corpus.txt')
-label = pd.read_csv('Assignment1\Task2\\new_labels.txt')
-data = pd.concat([corpus, label], axis=1)
-data2 = data.dropna()
+X_train = pd.read_csv('Assignment1\Task2\\new_corpus.txt')
+y_train = pd.read_csv('Assignment1\Task2\\new_labels.txt')
+X_test = pd.read_csv('Assignment1\Task2\\generated_samples\\addfilehere.txt')
 
-X_train, X_test, y_train, y_test = train_test_split(data2["text"], data2["label"], test_size=0.2, random_state=42)
+# X_train, X_test, y_train, y_test = train_test_split(data2["text"], data2["label"], test_size=0.2, random_state=42)
 
 tfidf_vectorizer = TfidfVectorizer()
 X_train_tfidf = tfidf_vectorizer.fit_transform(X_train)
@@ -37,24 +36,5 @@ report = classification_report(y_test, y_pred)
 
 # Print the results
 print("Best Parameters:", best_params)
-print("Test Accuracy:", accuracy)
-print("Classification Report:\n", report)
-
-
-# Drop rows with missing values
-data2 = data.dropna()
-X_train, X_test, y_train, y_test = train_test_split(data2['text'], data2['label'], test_size=0.2, random_state=42)
-
-tfidf_vectorizer = TfidfVectorizer()
-X_train_tfidf = tfidf_vectorizer.fit_transform(X_train)
-X_test_tfidf = tfidf_vectorizer.transform(X_test)
-
-svc = SVC()
-svc.fit(X_train_tfidf, y_train)
-y_pred = svc.predict(X_test_tfidf)
-accuracy = accuracy_score(y_test, y_pred)
-report = classification_report(y_test, y_pred)
-
-# Print the results
 print("Test Accuracy:", accuracy)
 print("Classification Report:\n", report)
