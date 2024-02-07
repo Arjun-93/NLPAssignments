@@ -1,4 +1,5 @@
 import pandas as pd
+import pickle as pkl
 from sklearn.svm import SVC
 from sklearn.model_selection import GridSearchCV
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -46,6 +47,9 @@ grid_search.fit(X_test_tfidf, y_test)
 # Get the best parameters and best model
 best_params = grid_search.best_params_
 best_model = grid_search.best_estimator_
+
+# Saving the model
+pkl.dump(best_model, open('best_model.pkl', 'wb'))
 
 # Test the performance of the best model on the test set 
 y_pred = best_model.predict(X_train_tfidf)
