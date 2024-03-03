@@ -50,7 +50,7 @@
         ]
     },
     "b0311cba3aac4d909eec6e156c059617": {
-        "text": "(See Principles of Statutory Interpretation by Justice G.P. Singh, 9th Edn., 2004 at p. \n\n 438.).",
+        "text": "(See Principles of Statutory Interpretation by Justice G.P. Singh, 9th Edn., 2004 at p. 438.).",
         "labels": [
             "O",
             "O",
@@ -61,7 +61,6 @@
             "O",
             "B_JUDGE",
             "I_JUDGE",
-            "O",
             "O",
             "O",
             "O",
@@ -107,7 +106,7 @@
         ]
     },
     "cf44f4898b67493390f1a8c8c7dfc0cc": {
-        "text": "In para 13 of the plaint, it has been further averred that, \"When the plaintiffs asked the defendant to obtain requisite documents immediately, the defendant assured the plaintiffs that he would obtain the requisite documents and would be available on 29/12/2004 at the office of the Sub\u00adRegistrar, Geeta Colony, Delhi and would execute the sale deed\".",
+        "text": "In para 13 of the plaint, it has been further averred that, \"When the plaintiffs asked the defendant to obtain requisite documents immediately, the defendant assured the plaintiffs that he would obtain the requisite documents and would be available on 29/12/2004 at the office of the Sub-Registrar, Geeta Colony, Delhi and would execute the sale deed\".",
         "labels": [
             "O",
             "O",
@@ -332,7 +331,7 @@
         ]
     },
     "74a636c13af74bdfbeedf41c5fea8518": {
-        "text": "The LoA stipulated that:\n\n \"17. The allotment of said land is subject to the outcome of the Appeal Suit No. 274/2007 in (OS No. 155/05), WP Nos. 19670/07, 20667/07 and 22043/07 pending before the Hon'ble High Court of Andhra Pradesh.\" \n\n PART A 4",
+        "text": "The LoA stipulated that: \"17. The allotment of said land is subject to the outcome of the Appeal Suit No. 274/2007 in (OS No. 155/05), WP Nos. 19670/07, 20667/07 and 22043/07 pending before the Hon'ble High Court of Andhra Pradesh.\" PART A 4",
         "labels": [
             "O",
             "O",
@@ -376,12 +375,11 @@
             "I_COURT",
             "O",
             "O",
-            "O",
             "O"
         ]
     },
     "b56f2535aed144a3a3051bea1ce96542": {
-        "text": "\n\n\n\n\n The appeal filed by assessee is against order of CIT(A)-7, Pune, dated 22.05.2018 relating to assessment year 2015-16 against order passed under section 143(3) of the Income-tax Act, 1961 (in short 'the Act'). \n\n2.",
+        "text": " The appeal filed by assessee is against order of CIT(A)-7, Pune, dated 22.05.2018 relating to assessment year 2015-16 against order passed under section 143(3) of the Income-tax Act, 1961 (in short 'the Act'). 2.",
         "labels": [
             "O",
             "O",
@@ -461,9 +459,8 @@
         ]
     },
     "d28bf7a50caf436db52174a77603fb77": {
-        "text": "\"..........Deficiencies in investigation by way of omissions and lapses on the part of investigating agency cannot in themselves justify a total rejection of the prosecution case.\" \n\n Hon'ble the Supreme Court has again in the case of Surajit Sarkar Vs. State of West Bengal36, has addressed the issue and held that:-\n49.",
+        "text": "\"..........Deficiencies in investigation by way of omissions and lapses on the part of investigating agency cannot in themselves justify a total rejection of the prosecution case.\" Hon'ble the Supreme Court has again in the case of Surajit Sarkar Vs. State of West Bengal36, has addressed the issue and held that:-49.",
         "labels": [
-            "O",
             "O",
             "O",
             "O",
@@ -606,7 +603,7 @@
         ]
     },
     "0f5889925f64410eab7028525b3c2275": {
-        "text": "In this regard in Rohitbhai Jivanlal Patel vs State of Gujarat decided by hon'ble Apex Court in Crl Appeal no. 508/2019 decided on 15.03.2019, it has been held as under:\n ",
+        "text": "In this regard in Rohitbhai Jivanlal Patel vs State of Gujarat decided by hon'ble Apex Court in Crl Appeal no. 508/2019 decided on 15.03.2019, it has been held as under: ",
         "labels": [
             "O",
             "O",
@@ -683,7 +680,7 @@
         ]
     },
     "1793035afbe247ed876d6ff03972700f": {
-        "text": "On 14th February, 2018, one Mr. Amar N. \n\nBarot, General Secretary of the Textile Labour Association made a mention before the court that the judgment in the case may either be dictated or the matter may be released and sent to the regular bench. \n\n2.",
+        "text": "On 14th February, 2018, one Mr. Amar N. Barot, General Secretary of the Textile Labour Association made a mention before the court that the judgment in the case may either be dictated or the matter may be released and sent to the regular bench. 2.",
         "labels": [
             "O",
             "B_DATE",
@@ -691,9 +688,9 @@
             "I_DATE",
             "O",
             "O",
-            "B_OTHER_PERSON",
-            "I_OTHER_PERSON",
-            "I_OTHER_PERSON",
+            "O",
+            "O",
+            "O",
             "O",
             "O",
             "O",
@@ -729,7 +726,7 @@
             "O",
             "O",
             "O",
-            "O"
+            "B_OTHER_PERSON"
         ]
     },
     "b976b48f8441465a8a1c247a631ac724": {
@@ -1005,7 +1002,7 @@
         ]
     },
     "bd3c8f95736a46bdbf423965d76f5b5a": {
-        "text": " another writ petition under Article 32 of the Constitution of India was again filed being W.P.(C) No.616 of 2020, which was dismissed as withdrawn on 21.07.2020, the order is extracted herein under:\n\n \u201cAfter arguing for sometime, Mr. Sanjay Hegde,\n learned senior counsel",
+        "text": " another writ petition under Article 32 of the Constitution of India was again filed being W.P.(C) No.616 of 2020, which was dismissed as withdrawn on 21.07.2020, the order is extracted herein under: \"After arguing for sometime, Mr. Sanjay Hegde, learned senior counsel",
         "labels": [
             "O",
             "O",
@@ -1045,11 +1042,11 @@
             "O",
             "O",
             "O",
+            "B_OTHER_PERSON",
+            "I_OTHER_PERSON",
             "O",
             "O",
-            "O",
-            "O",
-            "B_OTHER_PERSON"
+            "O"
         ]
     },
     "9d2dda898a124367894a3ee22c53c4f1": {
@@ -1109,7 +1106,7 @@
         ]
     },
     "963f59753ace4d9998840f21a7b5f2ac": {
-        "text": "\n\n 3. B.R.A. Bihar University, Muzaffarpur through its Registrar.",
+        "text": " 3. B.R.A. Bihar University, Muzaffarpur through its Registrar.",
         "labels": [
             "O",
             "O",
@@ -1123,7 +1120,7 @@
         ]
     },
     "3df2997986d348ad8f4e90e680f5ea07": {
-        "text": "In B. Shama Rao v. Union Territory of Pondicherry [AIR 1967 SC 1480 : (1967) 2 SCR 650 : 20 STC 215] it was observed, \u2018it is trite to say that a decision is binding not because of its conclusions but in regard to its ratio and the principles, laid down therein\u2019.",
+        "text": "In B. Shama Rao v. Union Territory of Pondicherry [AIR 1967 SC 1480 : (1967) 2 SCR 650 : 20 STC 215] it was observed, 'it is trite to say that a decision is binding not because of its conclusions but in regard to its ratio and the principles, laid down therein'.",
         "labels": [
             "O",
             "B_PRECEDENT",
@@ -1321,7 +1318,7 @@
         ]
     },
     "b01b8f00dc4d41098f6905b3dcde55b6": {
-        "text": "\n\nMr. Kapur also submitted that if one lifted the veil of SEARS and Sarda one would find that these two entities were creatures of Govind Sarda and his group.",
+        "text": "Mr. Kapur also submitted that if one lifted the veil of SEARS and Sarda one would find that these two entities were creatures of Govind Sarda and his group.",
         "labels": [
             "O",
             "B_OTHER_PERSON",
@@ -1594,7 +1591,7 @@
         ]
     },
     "163b7c1edf2e4bef97475a4ec88a1868": {
-        "text": "In case of Property Owners Association and Ors. vs. State of Maharashtra and Ors. reported in MANU/MH/0735/2019, the Bombay high Court has held as under:\n \" 181.",
+        "text": "In case of Property Owners Association and Ors. vs. State of Maharashtra and Ors. reported in MANU/MH/0735/2019, the Bombay high Court has held as under: \" 181.",
         "labels": [
             "O",
             "O",
@@ -1626,7 +1623,7 @@
         ]
     },
     "6c67731b38824109b96898179250a9f0": {
-        "text": "\n\nDigitally signed by:RAJENDER SINGH KARKI Signing Date:13.01.2021 18:54:39 31. Claimant(s) to respond to the offer of the Insurance Company within 30 days",
+        "text": "Digitally signed by:RAJENDER SINGH KARKI Signing Date:13.01.2021 18:54:39 31. Claimant(s) to respond to the offer of the Insurance Company within 30 days",
         "labels": [
             "O",
             "O",
@@ -1653,7 +1650,7 @@
         ]
     },
     "229396add311442eb685901fe7639c8b": {
-        "text": "The Apex Court in the case of M.D. Frozen Foods Exports Pvt. Ltd. & ors (supra) has framed legal issues which are as under :\n\n respondent can be carried on along with the SARFAESI proceedings simultaneously ? \n\n B.",
+        "text": "The Apex Court in the case of M.D. Frozen Foods Exports Pvt. Ltd. & ors (supra) has framed legal issues which are as under : respondent can be carried on along with the SARFAESI proceedings simultaneously ? B.",
         "labels": [
             "O",
             "B_COURT",
@@ -1689,7 +1686,6 @@
             "O",
             "O",
             "B_STATUTE",
-            "O",
             "O",
             "O",
             "O",
@@ -1746,7 +1742,7 @@
         ]
     },
     "6822e733d6194a86b42019a292edf8e8": {
-        "text": "\n\n v) In State of Punjab v. Joginder Singh4, the Apex Court relying on the principle laid down by it in Gopal Vinayak Godse v. State of Maharashtra [1961 AIR 600] and Maru Ram2 held that power under Articles - 72 and 161 of the Constitution of India is absolute and cannot be lettered by any statutory provision, such .",
+        "text": " v) In State of Punjab v. Joginder Singh4, the Apex Court relying on the principle laid down by it in Gopal Vinayak Godse v. State of Maharashtra [1961 AIR 600] and Maru Ram2 held that power under Articles - 72 and 161 of the Constitution of India is absolute and cannot be lettered by any statutory provision, such .",
         "labels": [
             "O",
             "O",
@@ -1993,9 +1989,8 @@
         ]
     },
     "6a2002c0ea484f28982f32aae5cfd6ac": {
-        "text": "It includes articles having the characteristics of textile floor coverings (e.g., thickness, stiffness and strength) but intended for use for other purposes (for example, as wall hangings or table covers or for other furnishing purposes). \n\n ",
+        "text": "It includes articles having the characteristics of textile floor coverings (e.g., thickness, stiffness and strength) but intended for use for other purposes (for example, as wall hangings or table covers or for other furnishing purposes). ",
         "labels": [
-            "O",
             "O",
             "O",
             "O",
@@ -2098,7 +2093,7 @@
         ]
     },
     "7e426c82335a4408949bc50fc551faa4": {
-        "text": "\n\n2. T. Vasanthakumar -vs- Vijayakumari, reported in AIR 2015 Supreme Court 2240 wherein it has held that Negotiable Instruments Act (26 of 1881), Ss.138 and 139 - C.C.NO.7919/2017 Dishonour of Cheque - Appeal against acquittal - Cheque as well as signature on it not disputed by accused respondent -",
+        "text": "2. T. Vasanthakumar -vs- Vijayakumari, reported in AIR 2015 Supreme Court 2240 wherein it has held that Negotiable Instruments Act (26 of 1881), Ss.138 and 139 - C.C.NO.7919/2017 Dishonour of Cheque - Appeal against acquittal - Cheque as well as signature on it not disputed by accused respondent -",
         "labels": [
             "O",
             "B_PRECEDENT",
@@ -2496,7 +2491,7 @@
         ]
     },
     "ac2e254abdc841c583d46c0c33fddfd5": {
-        "text": "In support of his contention, he relied upon the decision of the Hon'ble Supreme Court in 'Authorized Officer, State Bank of Travancore vs. Mathew K.C.2'. \n\n ",
+        "text": "In support of his contention, he relied upon the decision of the Hon'ble Supreme Court in 'Authorized Officer, State Bank of Travancore vs. Mathew K.C.2'. ",
         "labels": [
             "O",
             "O",
@@ -2513,7 +2508,6 @@
             "O",
             "B_COURT",
             "I_COURT",
-            "O",
             "O",
             "O",
             "O",
@@ -2920,7 +2914,7 @@
         ]
     },
     "0c9c5be78c004b4dafdd1f85356c1d9e": {
-        "text": "\n\n i) An order of injunction, attachment or appointment of a receiver can be initiated only at the instance of the bank or the financial institution.",
+        "text": " i) An order of injunction, attachment or appointment of a receiver can be initiated only at the instance of the bank or the financial institution.",
         "labels": [
             "O",
             "O",
@@ -2978,7 +2972,7 @@
         ]
     },
     "f1077ba1e46a4ce7b0fd6e829e86abef": {
-        "text": "Suo Motu Writ Petition (C) No.1 of 2020, dated 07.05.2021 KL,J W.P. Nos.20421 of 2019 & batch Arnesh Kumar v. State of Bihar [(2014) 8 SCC 273] during pandemic......\" \n\n\"10.",
+        "text": "Suo Motu Writ Petition (C) No.1 of 2020, dated 07.05.2021 KL,J W.P. Nos.20421 of 2019 & batch Arnesh Kumar v. State of Bihar [(2014) 8 SCC 273] during pandemic......\" \"10.",
         "labels": [
             "B_CASE_NUMBER",
             "I_CASE_NUMBER",
@@ -3216,7 +3210,7 @@
         ]
     },
     "4ada300733d743389557fabf7bb444cd": {
-        "text": ", in Laxmi Pat Surana v. Union Bank of India, Civil Appeal No. 2734 of 2020, a judgment delivered on 26.03.2021, this Court, after referring to various judgments of this Court, including the judgment in Babulal Vardharji Gurjar v. Veer Gurjar Aluminium Industries (P) Ltd., (2020) 15 SCC 1 [\u201cBabulal\u201d], then held:\n \u201c35",
+        "text": ", in Laxmi Pat Surana v. Union Bank of India, Civil Appeal No. 2734 of 2020, a judgment delivered on 26.03.2021, this Court, after referring to various judgments of this Court, including the judgment in Babulal Vardharji Gurjar v. Veer Gurjar Aluminium Industries (P) Ltd., (2020) 15 SCC 1 [\"Babulal\"], then held: \"35",
         "labels": [
             "O",
             "O",
@@ -3274,7 +3268,7 @@
         ]
     },
     "4f97087de9ff4c3c8f65b36f847678c4": {
-        "text": "\n\n C.C.No.2468/2018 That, the accused shall deposit the fine amount of Rs.90,000/- and in default of deposit of said fine amount, he shall undergo a simple imprisonment for one month.",
+        "text": " C.C.No.2468/2018 That, the accused shall deposit the fine amount of Rs.90,000/- and in default of deposit of said fine amount, he shall undergo a simple imprisonment for one month.",
         "labels": [
             "O",
             "B_CASE_NUMBER",
@@ -3417,7 +3411,7 @@
         ]
     },
     "0a88574e95e941ed9dc832f313cb8ba1": {
-        "text": "Therefore, the statement of witness A.D.2 Bhag Chand Khateek cannot be considered distrust worthy that his name in the charge sheet is not mentioned as witness.\" \n(emphasis supplied)\n \n 28.",
+        "text": "Therefore, the statement of witness A.D.2 Bhag Chand Khateek cannot be considered distrust worthy that his name in the charge sheet is not mentioned as witness.\" (emphasis supplied) 28.",
         "labels": [
             "O",
             "O",
@@ -3447,12 +3441,11 @@
             "O",
             "O",
             "O",
-            "O",
             "O"
         ]
     },
     "e1e39c13d6c9489d92d1c32918a20c7e": {
-        "text": "At this juncture, it would be apt to reproduce herein below Section 23 of the DV Act, which reads as under:-\n 23. Power to grant interim and ex parte orders.",
+        "text": "At this juncture, it would be apt to reproduce herein below Section 23 of the DV Act, which reads as under:- 23. Power to grant interim and ex parte orders.",
         "labels": [
             "O",
             "O",
@@ -3529,7 +3522,7 @@
         ]
     },
     "9bb95778628f4399b63544d7ae0bcb35": {
-        "text": "\n\n i) The learned Counsel referred to the earlier litigation filed by Mr.L.M.Menezes and others in Application No.567/2002.",
+        "text": " i) The learned Counsel referred to the earlier litigation filed by Mr.L.M.Menezes and others in Application No.567/2002.",
         "labels": [
             "O",
             "O",
@@ -3852,7 +3845,7 @@
         ]
     },
     "e4eec46b4865417eb8ace3b005fbd345": {
-        "text": "\n\n Thus, on the basis of these documents when the shop number and address of the shop is not known these factual aspects of the matter cannot be examined in writ jurisdiction Accordingly, the Writ Petition No.12837 of 2019 is also dismissed.",
+        "text": " Thus, on the basis of these documents when the shop number and address of the shop is not known these factual aspects of the matter cannot be examined in writ jurisdiction Accordingly, the Writ Petition No.12837 of 2019 is also dismissed.",
         "labels": [
             "O",
             "O",
@@ -4101,7 +4094,7 @@
         ]
     },
     "9734056231bb4e3f9c77a94fe0a774c4": {
-        "text": "\n\n (d) Whether Section 68 of the Amendment Act, 1988 continues to subsist regardless of the coming into force of Section 434(1)(c) of the 2013 Act in relation to matters that were filed in the High Court prior to coming into force of the Amendment Act, 1988?",
+        "text": " (d) Whether Section 68 of the Amendment Act, 1988 continues to subsist regardless of the coming into force of Section 434(1)(c) of the 2013 Act in relation to matters that were filed in the High Court prior to coming into force of the Amendment Act, 1988?",
         "labels": [
             "O",
             "O",
@@ -4420,7 +4413,7 @@
         ]
     },
     "9b753f80de4f47dea686ed9605c9c944": {
-        "text": "The respondents to the revision are selfsame revision respondents in CRP.No.191 of 2014 supra besides one N.Laxmamma W/o. Laxmaiah. \n 2(a).",
+        "text": "The respondents to the revision are selfsame revision respondents in CRP.No.191 of 2014 supra besides one N.Laxmamma W/o. Laxmaiah. 2(a).",
         "labels": [
             "O",
             "O",
@@ -4441,7 +4434,6 @@
             "B_OTHER_PERSON",
             "O",
             "B_OTHER_PERSON",
-            "O",
             "O"
         ]
     },
@@ -4870,7 +4862,7 @@
         ]
     },
     "87359ac689c24a0082616f8ef943866d": {
-        "text": "Sub Section 5 of Section 3 stipulates that the State Government W.A.No.755/2021 & con. cases :: 81 ::\n shall, for applying the reservation under sub-section (1), by a notified order, issue a roster which shall be continuously applied till it is exhausted.",
+        "text": "Sub Section 5 of Section 3 stipulates that the State Government W.A.No.755/2021 & con. cases :: 81 :: shall, for applying the reservation under sub-section (1), by a notified order, issue a roster which shall be continuously applied till it is exhausted.",
         "labels": [
             "B_PROVISION",
             "I_PROVISION",
@@ -5362,7 +5354,7 @@
         ]
     },
     "d84324f3abde49eea352136e7336910c": {
-        "text": "Same is the conclusion from State of Goa Vs. Babu Thomas holding that when sanction is required from the act connected with the duty of the public servant, taking cognizance by a Court without sanction is incompetent and the error was so fundamental that invalidates the proceedings right from the stage of cognizance. \n\n 45(p).",
+        "text": "Same is the conclusion from State of Goa Vs. Babu Thomas holding that when sanction is required from the act connected with the duty of the public servant, taking cognizance by a Court without sanction is incompetent and the error was so fundamental that invalidates the proceedings right from the stage of cognizance. 45(p).",
         "labels": [
             "O",
             "O",
@@ -5375,7 +5367,6 @@
             "I_PRECEDENT",
             "I_PRECEDENT",
             "I_PRECEDENT",
-            "O",
             "O",
             "O",
             "O",
@@ -5466,7 +5457,7 @@
         ]
     },
     "86f0ff9f1d2244a78b37a015f54cc71f": {
-        "text": "In fact, before us, the ex\u00adDirector of the company in liquidation was represented by Shri Mukul Rohtagi, learned senior counsel and DEMPL was represented by Shri Arvind P. Datar, learned senior counsel.",
+        "text": "In fact, before us, the ex-Director of the company in liquidation was represented by Shri Mukul Rohtagi, learned senior counsel and DEMPL was represented by Shri Arvind P. Datar, learned senior counsel.",
         "labels": [
             "O",
             "O",
@@ -5522,7 +5513,7 @@
         ]
     },
     "a42c3c9c248743f4b845926fb53b7182": {
-        "text": "It is further submitted that Allahabad Bank (Consortium Member) has also filed an Application under Section 14 of SARFAESI Act 2002 before the Learned District Magistrate at Bhojpur, which is pending. \n\n ",
+        "text": "It is further submitted that Allahabad Bank (Consortium Member) has also filed an Application under Section 14 of SARFAESI Act 2002 before the Learned District Magistrate at Bhojpur, which is pending. ",
         "labels": [
             "O",
             "O",
@@ -5552,7 +5543,6 @@
             "I_COURT",
             "I_COURT",
             "I_COURT",
-            "O",
             "O",
             "O",
             "O",
@@ -5729,7 +5719,7 @@
         ]
     },
     "2c845b7d7b8b414e9d930735c2174ca0": {
-        "text": "And whereas, sub-section (3) of Section 105 of the RFCTLARR Act provided for issuing of notification to make the provisions of the Act relating to, the determination of the compensation, rehabilitation and W.P.(C) No. 17110 of 2020 ::64::\nresettlement applicable to cases of land acquisition under the enactments specified in the Fourth Schedule to the RFCTLARR Act;\n 60.",
+        "text": "And whereas, sub-section (3) of Section 105 of the RFCTLARR Act provided for issuing of notification to make the provisions of the Act relating to, the determination of the compensation, rehabilitation and W.P.(C) No. 17110 of 2020 ::64::resettlement applicable to cases of land acquisition under the enactments specified in the Fourth Schedule to the RFCTLARR Act; 60.",
         "labels": [
             "O",
             "O",
@@ -5785,9 +5775,9 @@
             "I_PROVISION",
             "O",
             "O",
-            "O",
-            "O",
-            "B_STATUTE"
+            "B_STATUTE",
+            "I_STATUTE",
+            "O"
         ]
     },
     "f810baf7bbc24a91995759c8dc8fcd40": {
@@ -5875,7 +5865,7 @@
         ]
     },
     "15498dd670ab46efae7c41cf7fedb0d2": {
-        "text": "There is also no power with the Executive/Respondents/Revenue to defer/postpone the implementation of Sections 2 to 88 of the Finance Act, 2021 which includes the substituted Sections 147 to 151 of the Income Tax Act, 1961. \n\n 43.",
+        "text": "There is also no power with the Executive/Respondents/Revenue to defer/postpone the implementation of Sections 2 to 88 of the Finance Act, 2021 which includes the substituted Sections 147 to 151 of the Income Tax Act, 1961. 43.",
         "labels": [
             "O",
             "O",
@@ -5913,7 +5903,6 @@
             "I_STATUTE",
             "I_STATUTE",
             "I_STATUTE",
-            "O",
             "O"
         ]
     },
@@ -5982,7 +5971,7 @@
         ]
     },
     "6b2c75f1de35442da24b1ef3446b91b0": {
-        "text": "Thus, in absence of any rules or regulations governing the service conditions of its employees, issuance of administrative order is permissible in law vide Meghalaya SEB v. Jagadindra Arjun [(2001) 6 SCC 446 : 2001 SCC (L&S) 976] .\u201d",
+        "text": "Thus, in absence of any rules or regulations governing the service conditions of its employees, issuance of administrative order is permissible in law vide Meghalaya SEB v. Jagadindra Arjun [(2001) 6 SCC 446 : 2001 SCC (L&S) 976] .\"",
         "labels": [
             "O",
             "O",
@@ -6026,7 +6015,7 @@
         ]
     },
     "30aa58b4c5f74d78b52db1458595952d": {
-        "text": "\n\n (2) The provisions of sub-section (1) as to the issue of notice shall be subject to the provisions of section 151.\" \n\n12.",
+        "text": " (2) The provisions of sub-section (1) as to the issue of notice shall be subject to the provisions of section 151.\" 12.",
         "labels": [
             "O",
             "O",
@@ -6185,7 +6174,7 @@
         ]
     },
     "866a6a91259149e0acf795216f065d8e": {
-        "text": "\n\n ix) In State of Haryana v. Jagdish and Harpal8, a Three- Judge Bench of the Apex Court held that the case of the accused can be considered on the strength of the policy that was existing on the date of his conviction, and in case of liberal policy prevails on date of consideration of case of 'lifer' for premature release, he should be given benefit thereof.",
+        "text": " ix) In State of Haryana v. Jagdish and Harpal8, a Three- Judge Bench of the Apex Court held that the case of the accused can be considered on the strength of the policy that was existing on the date of his conviction, and in case of liberal policy prevails on date of consideration of case of 'lifer' for premature release, he should be given benefit thereof.",
         "labels": [
             "O",
             "O",
@@ -6317,7 +6306,7 @@
         ]
     },
     "add398c4dfad42259d756dc0bd7b5735": {
-        "text": "The Hon'ble Supreme Court while considering the provisions of Articles 129 and 142 of the Constitution of India, in the case of Sanjiv Datta, Dy. Secy., Ministry of Information & Broadcasting, reported in (1995)3 SCC 619, has held at paragraphs 19 and 20 as under:\n 19.",
+        "text": "The Hon'ble Supreme Court while considering the provisions of Articles 129 and 142 of the Constitution of India, in the case of Sanjiv Datta, Dy. Secy., Ministry of Information & Broadcasting, reported in (1995)3 SCC 619, has held at paragraphs 19 and 20 as under: 19.",
         "labels": [
             "O",
             "O",
@@ -6606,9 +6595,8 @@
         ]
     },
     "6288cf7fbab1469ea07765046943be4f": {
-        "text": "\n\n A finding was also recorded by that Court that the bus that was seized was found to be a \"66 seater\", whereas the bus bearing registration no.PUV-9440 was a \"61 seater\". \n\n 9 of 16 22.",
+        "text": " A finding was also recorded by that Court that the bus that was seized was found to be a \"66 seater\", whereas the bus bearing registration no.PUV-9440 was a \"61 seater\". 9 of 16 22.",
         "labels": [
-            "O",
             "O",
             "O",
             "O",
@@ -6683,7 +6671,7 @@
         ]
     },
     "3be765661bd74ffba5df04b2057fd54e": {
-        "text": "It is submitted that Telecom Regulatory Authority of India (TRAI) made recommendations on \u2018Guidelines on Spectrum Sharing\u2019 on July 21, 2014, which was considered and approved by the Telecom Commission (TC) in its meeting held on 11.06.1025 and subsequently approved by the Central Government.",
+        "text": "It is submitted that Telecom Regulatory Authority of India (TRAI) made recommendations on 'Guidelines on Spectrum Sharing' on July 21, 2014, which was considered and approved by the Telecom Commission (TC) in its meeting held on 11.06.1025 and subsequently approved by the Central Government.",
         "labels": [
             "O",
             "O",
@@ -6732,7 +6720,7 @@
         ]
     },
     "22858d06fa06422884f8c8ba93e94e9f": {
-        "text": "OFFICE OF EXCISE COMMISSIONER, UTTAR PRADESH, ALLAHABAD No. 7244/9-Alcohol/131/Rosa/Fire Incident Allahabad Dated \u2013 11.07.2006 ORDER M/s McDowell & Company Ltd., Rosa, District Shahjhanpur is a PD-2 Licensed distillery.",
+        "text": "OFFICE OF EXCISE COMMISSIONER, UTTAR PRADESH, ALLAHABAD No. 7244/9-Alcohol/131/Rosa/Fire Incident Allahabad Dated - 11.07.2006 ORDER M/s McDowell & Company Ltd., Rosa, District Shahjhanpur is a PD-2 Licensed distillery.",
         "labels": [
             "O",
             "O",
@@ -6859,7 +6847,7 @@
         ]
     },
     "479ac75959604053992ee9d7db10a190": {
-        "text": "The minutes of the meeting read thus:\n \u201cItem No.18/2020 Regarding proposed change of land use of Plot Nos.1,2,3,4,5,6,7 and 8.F.20(12)2019/MP a) The proposal was presented by Joint Secretary (L&E), MoHUA, In-charge of Central Vista Development/Redevelopment Project, who was present as Special Invitee.",
+        "text": "The minutes of the meeting read thus: \"Item No.18/2020 Regarding proposed change of land use of Plot Nos.1,2,3,4,5,6,7 and 8.F.20(12)2019/MP a) The proposal was presented by Joint Secretary (L&E), MoHUA, In-charge of Central Vista Development/Redevelopment Project, who was present as Special Invitee.",
         "labels": [
             "O",
             "O",
@@ -7181,7 +7169,7 @@
         ]
     },
     "087b8cd4c953495e8f8177ec732ac4d7": {
-        "text": "The case of the petitioners is that Parliament has broken the law of the Constitution by enacting Section 433A.\" \n\n",
+        "text": "The case of the petitioners is that Parliament has broken the law of the Constitution by enacting Section 433A.\" ",
         "labels": [
             "O",
             "O",
@@ -7529,7 +7517,7 @@
         ]
     },
     "6e819812f584461eac4a45793585a64e": {
-        "text": "According to the petitioner\u00adfirm, the firms like M/s Price Water House Cooper, Deloitte Haskins & Sells, etc. who are having global presence in various countries were transferring foreign currencies into their firms/member firms registered in India.",
+        "text": "According to the petitioner-firm, the firms like M/s Price Water House Cooper, Deloitte Haskins & Sells, etc. who are having global presence in various countries were transferring foreign currencies into their firms/member firms registered in India.",
         "labels": [
             "O",
             "O",
@@ -7686,7 +7674,7 @@
         ]
     },
     "1d20051fe405479fb45031df3634493b": {
-        "text": "The aforesaid judgment rendered by the learned Division Bench of this Court in the case of Khas Mahal Citizen Welfare Society (supra) has also been upheld by a judgment rendered by the Hon'ble Apex Court, reported in 2019(1) PLJR 628 (SC). \n\n 7.",
+        "text": "The aforesaid judgment rendered by the learned Division Bench of this Court in the case of Khas Mahal Citizen Welfare Society (supra) has also been upheld by a judgment rendered by the Hon'ble Apex Court, reported in 2019(1) PLJR 628 (SC). 7.",
         "labels": [
             "O",
             "O",
@@ -7729,7 +7717,6 @@
             "I_PRECEDENT",
             "I_PRECEDENT",
             "I_PRECEDENT",
-            "O",
             "O"
         ]
     },
@@ -7781,7 +7768,7 @@
         ]
     },
     "a8d56e311a8b4a7db6fc3b9e102d7936": {
-        "text": "Sub\u00adsection (8) of Section 100 Cr.P.C clearly spells out that if a public witness refuses or neglects to attend a search without reasonable cause in spite of an order in writing, he shall be deemed to have committed an offence under Section 187 IPC.",
+        "text": "Sub-section (8) of Section 100 Cr.P.C clearly spells out that if a public witness refuses or neglects to attend a search without reasonable cause in spite of an order in writing, he shall be deemed to have committed an offence under Section 187 IPC.",
         "labels": [
             "B_PROVISION",
             "I_PROVISION",
@@ -7830,7 +7817,7 @@
         ]
     },
     "6718518c4d034ce086a311a78f3bd6a9": {
-        "text": "In the case of O. Konavalov vs. Commander, Coast Guard Region and Ors.: (supra), the Supreme Court observed thus:\n \"POWER TO CONFISCATE 30.",
+        "text": "In the case of O. Konavalov vs. Commander, Coast Guard Region and Ors.: (supra), the Supreme Court observed thus: \"POWER TO CONFISCATE 30.",
         "labels": [
             "O",
             "O",
@@ -7907,7 +7894,7 @@
         ]
     },
     "44c1a5e10ff242758c27db0a7ddf080e": {
-        "text": "Hence, no time extension could ever be made under section 3(1) of the Enabling Act, read with the Notifications issued thereunder. \n\n68.",
+        "text": "Hence, no time extension could ever be made under section 3(1) of the Enabling Act, read with the Notifications issued thereunder. 68.",
         "labels": [
             "O",
             "O",
@@ -7998,7 +7985,7 @@
         ]
     },
     "506ce95de4a049e9991b924544017d33": {
-        "text": "\n\n This Court, on an examination of all the facts, which are highlighted by the counsels, notices that OP filed in 1980 against Satyanarayana Reddy with a wrong surname and one Ramachandra Rao is allowed to be decreed in 1989 on the very same day that a written statement is filed admitting the suit claim.",
+        "text": " This Court, on an examination of all the facts, which are highlighted by the counsels, notices that OP filed in 1980 against Satyanarayana Reddy with a wrong surname and one Ramachandra Rao is allowed to be decreed in 1989 on the very same day that a written statement is filed admitting the suit claim.",
         "labels": [
             "O",
             "O",
@@ -8058,7 +8045,7 @@
         ]
     },
     "539f6e73096042269c412ff546fd618e": {
-        "text": "The challenge to these Regulations was rejected by the Supreme Court in Sarwarlal Vs. State of Hyderabad31. \n\n243.",
+        "text": "The challenge to these Regulations was rejected by the Supreme Court in Sarwarlal Vs. State of Hyderabad31. 243.",
         "labels": [
             "O",
             "O",
@@ -8081,7 +8068,7 @@
         ]
     },
     "2311a26258b8470b8cf4c0199136298c": {
-        "text": "The next judgment to be noted is Pushpa Devi Bhagat (Dead) Through LR. Sadhna Rai (Smt.) Vs. Rajinder Singh and Ors., (2006) 5 SCC 566, Justice R.V. Raveendran speaking for the Court noted the provisions of Order XXIII Rule 3 and Rule 3A and recorded his conclusions in paragraph 17 in following words:\u00ad \u201c17.",
+        "text": "The next judgment to be noted is Pushpa Devi Bhagat (Dead) Through LR. Sadhna Rai (Smt.) Vs. Rajinder Singh and Ors., (2006) 5 SCC 566, Justice R.V. Raveendran speaking for the Court noted the provisions of Order XXIII Rule 3 and Rule 3A and recorded his conclusions in paragraph 17 in following words:- \"17.",
         "labels": [
             "O",
             "O",
@@ -8305,9 +8292,8 @@
         ]
     },
     "1ab57834e2724d14880f11dec151fa35": {
-        "text": "Law cannot afford to be static and therefore, Judges are to employ an intelligent technique in the use of precedents.\" \n\n (iv) In State of Punjab v. Devans Modern Breweries Ltd., reported in (2004) 11 SCC 26, the Hon'ble Supreme Court explained the doctrine of precedents as thus:\n \"334.",
+        "text": "Law cannot afford to be static and therefore, Judges are to employ an intelligent technique in the use of precedents.\" (iv) In State of Punjab v. Devans Modern Breweries Ltd., reported in (2004) 11 SCC 26, the Hon'ble Supreme Court explained the doctrine of precedents as thus: \"334.",
         "labels": [
-            "O",
             "O",
             "O",
             "O",
@@ -8573,7 +8559,7 @@
         ]
     },
     "883539f053044526ad55655c858d5d5d": {
-        "text": "\n\n The landlord in the eviction petition filed under Section 13-B of the Rent Act had placed reliance upon US passport issued to him in the year 2006.",
+        "text": " The landlord in the eviction petition filed under Section 13-B of the Rent Act had placed reliance upon US passport issued to him in the year 2006.",
         "labels": [
             "O",
             "O",
@@ -9066,7 +9052,7 @@
         ]
     },
     "c79348eb992c4a698d1102f896e66b59": {
-        "text": "\n\n vii) This Court vide order dated 19.12.2016 in W.P. No.27105 of 2016 while considering the submission of life-convict that he has completed 18 years of actual sentence including remand period and 24 years of a total sentence including remission is entitled and eligible KL,J W.P. Nos.20421 of 2019 & batch for premature release and since he has completed 19 years including remission in terms of G.O.Ms.No.16, dated 17.02.2016.",
+        "text": " vii) This Court vide order dated 19.12.2016 in W.P. No.27105 of 2016 while considering the submission of life-convict that he has completed 18 years of actual sentence including remand period and 24 years of a total sentence including remission is entitled and eligible KL,J W.P. Nos.20421 of 2019 & batch for premature release and since he has completed 19 years including remission in terms of G.O.Ms.No.16, dated 17.02.2016.",
         "labels": [
             "O",
             "O",
@@ -9315,7 +9301,7 @@
         ]
     },
     "4ed6dd06df3f4cef87bfa31782903ba3": {
-        "text": "\nLearned trial court had found that the offence punishable under Sections 302/34 & 148 IPC is proved to the hilt , hence they were convicted for life imprisonment with a fine of Rs.15,000/- and three years rigorous imprisonment and both the sentences were directed to run concurrently and in case of default, further simple imprisonment of six months.",
+        "text": "Learned trial court had found that the offence punishable under Sections 302/34 & 148 IPC is proved to the hilt , hence they were convicted for life imprisonment with a fine of Rs.15,000/- and three years rigorous imprisonment and both the sentences were directed to run concurrently and in case of default, further simple imprisonment of six months.",
         "labels": [
             "O",
             "O",
@@ -10054,7 +10040,7 @@
         ]
     },
     "68dfb77a8b3c4a0a8bde75cba3e5270f": {
-        "text": "To summarise the conclusions:\n (i) The challenge to the constitutional validity of the proviso to Section 43 (5) of the Act is rejected.",
+        "text": "To summarise the conclusions: (i) The challenge to the constitutional validity of the proviso to Section 43 (5) of the Act is rejected.",
         "labels": [
             "O",
             "O",
@@ -10323,7 +10309,7 @@
         ]
     },
     "247f948e797a46e49fa99993e63acf90": {
-        "text": "The writ petition was filed by the appellant herein challenging the vires of Section 5(3)\n\n(iii)(a) and Section 29A of the Gujarat Provincial Municipal Corporation Act, 1949 (hereinafter referred to as \u201cAct, 1949\u201d) and other statutory provisions including Rules framed thereunder and the notifications.",
+        "text": "The writ petition was filed by the appellant herein challenging the vires of Section 5(3)(iii)(a) and Section 29A of the Gujarat Provincial Municipal Corporation Act, 1949 (hereinafter referred to as \"Act, 1949\") and other statutory provisions including Rules framed thereunder and the notifications.",
         "labels": [
             "O",
             "O",
@@ -10338,8 +10324,8 @@
             "O",
             "O",
             "O",
-            "B_PROVISION",
-            "I_PROVISION",
+            "O",
+            "O",
             "O",
             "B_PROVISION",
             "I_PROVISION",
@@ -10367,7 +10353,7 @@
             "O",
             "O",
             "O",
-            "O"
+            "B_PROVISION"
         ]
     },
     "9bec282da12f48f8b2f104330f65d024": {
@@ -10750,7 +10736,7 @@
         ]
     },
     "d5b24598313e4ca68953b53b5916b931": {
-        "text": "\n\n15) Further, it is admitted fact that in view of the allegations received against the accused through source of information, the SP Crl.A. No.1011/2017 J of the CBI Dr. A. Subramaneshwar Rao suo-moto registered the FIR before the XXI Addl. City Civil & Sessions Judge & Prl. Special Judge for CBI Cases, Bengaluru.",
+        "text": "15) Further, it is admitted fact that in view of the allegations received against the accused through source of information, the SP Crl.A. No.1011/2017 J of the CBI Dr. A. Subramaneshwar Rao suo-moto registered the FIR before the XXI Addl. City Civil & Sessions Judge & Prl. Special Judge for CBI Cases, Bengaluru.",
         "labels": [
             "O",
             "O",
@@ -11410,7 +11396,7 @@
         ]
     },
     "d7876b58b3054415b5106f1ba2a29cb3": {
-        "text": "The brief the averments of the complaint are as under;\n It is averred in the complaint that, land bearing survey No.23/3, measuring 2 acres 10 guntas situated at Doddabidarakallu village, Yeshavanthpura Hobli, Bengaluru North Taluk, is belongs to one Smt.Jayalakshmi.",
+        "text": "The brief the averments of the complaint are as under; It is averred in the complaint that, land bearing survey No.23/3, measuring 2 acres 10 guntas situated at Doddabidarakallu village, Yeshavanthpura Hobli, Bengaluru North Taluk, is belongs to one Smt.Jayalakshmi.",
         "labels": [
             "O",
             "O",
@@ -11674,7 +11660,7 @@
         ]
     },
     "3aed50dae21943ba99bb5924b77915aa": {
-        "text": "Section 151 reads:\n \"Nothing in this Code shall be deemed to limit or otherwise affect the inherent power of the Court to make such orders as may be necessary for the ends of justice or to prevent abuse of the process of the Court.\" \n\n21.",
+        "text": "Section 151 reads: \"Nothing in this Code shall be deemed to limit or otherwise affect the inherent power of the Court to make such orders as may be necessary for the ends of justice or to prevent abuse of the process of the Court.\" 21.",
         "labels": [
             "B_PROVISION",
             "I_PROVISION",
@@ -11971,7 +11957,7 @@
         ]
     },
     "18abe1d4607640c29cf74eee33d5a183": {
-        "text": "\n\n vi) In Swami Shraddananda v. State of Karnataka5, the Apex Court held that no convict can claim remission as a matter of right.",
+        "text": " vi) In Swami Shraddananda v. State of Karnataka5, the Apex Court held that no convict can claim remission as a matter of right.",
         "labels": [
             "O",
             "O",
@@ -12030,7 +12016,7 @@
         ]
     },
     "8728ad37b3e84c76922483d3b8ee5c4e": {
-        "text": "The order of dismissal was assailed before the Supreme Court in a judgment rendered in the case of Meera Sahni (supra). \n\n50.",
+        "text": "The order of dismissal was assailed before the Supreme Court in a judgment rendered in the case of Meera Sahni (supra). 50.",
         "labels": [
             "O",
             "O",
@@ -12130,7 +12116,7 @@
         ]
     },
     "364fb718b26243cd9ea10c83a734c0d1": {
-        "text": "On this basis in R. v. Barnet London Borough Council, ex p Johnson [(1989) 88 LGR 73] the condition imposed by a local authority prohibiting participation by those affiliated with political parties at events to be held in the authority's parks was struck down.\" \n\n \"83.",
+        "text": "On this basis in R. v. Barnet London Borough Council, ex p Johnson [(1989) 88 LGR 73] the condition imposed by a local authority prohibiting participation by those affiliated with political parties at events to be held in the authority's parks was struck down.\" \"83.",
         "labels": [
             "O",
             "O",
@@ -12149,7 +12135,6 @@
             "I_PRECEDENT",
             "I_PRECEDENT",
             "I_PRECEDENT",
-            "O",
             "O",
             "O",
             "O",
@@ -12259,7 +12244,7 @@
         ]
     },
     "de883a2b941a4802866cfeb76733f154": {
-        "text": "The amount of Rs.1,03,000/\u00ad, which was received by Janakiammal from the Insurance Corporation after the death of her husband was given to defendant No.1, which was utilised for business purposes.",
+        "text": "The amount of Rs.1,03,000/-, which was received by Janakiammal from the Insurance Corporation after the death of her husband was given to defendant No.1, which was utilised for business purposes.",
         "labels": [
             "O",
             "O",
@@ -12826,7 +12811,7 @@
         ]
     },
     "f75f37942e49414781f92afa31befac6": {
-        "text": "(Exh.84)\n (x) Reply of the Public Information Officer - cum - Deputy Collector, Dholka dated 19.01.2018 to the petitioner.",
+        "text": "(Exh.84) (x) Reply of the Public Information Officer - cum - Deputy Collector, Dholka dated 19.01.2018 to the petitioner.",
         "labels": [
             "O",
             "O",
@@ -12883,7 +12868,7 @@
         ]
     },
     "50cb65616885476ca89cbba618cfcdae": {
-        "text": "\n\n It was not just the speech of any member in Parliament.",
+        "text": " It was not just the speech of any member in Parliament.",
         "labels": [
             "O",
             "O",
@@ -13007,7 +12992,7 @@
         ]
     },
     "01e75b24c74445ca8a213970dfd12182": {
-        "text": "In Ankush Maruti Shinde (supra), Hon'ble Apex Court has observed as under:-\n \"On the culmination of a criminal case in acquittal, the concerned investigating/ prosecuting official(s) responsible for such acquittal must necessarily be identified.",
+        "text": "In Ankush Maruti Shinde (supra), Hon'ble Apex Court has observed as under:- \"On the culmination of a criminal case in acquittal, the concerned investigating/ prosecuting official(s) responsible for such acquittal must necessarily be identified.",
         "labels": [
             "O",
             "B_OTHER_PERSON",
@@ -13133,7 +13118,7 @@
         ]
     },
     "6e2af430e59c463484835a36a69ff514": {
-        "text": "Further, there is an apparent contradiction in the three-Judge Bench decision in McDowell [State of A.P. v. McDowell and Co.,\n(1996) 3 SCC 709] when it is said that a constitutional challenge can succeed on the ground that a law is \"disproportionate, excessive or unreasonable\", yet such challenge would fail on the very ground of the law being \"unreasonable, unnecessary or unwarranted\". ",
+        "text": "Further, there is an apparent contradiction in the three-Judge Bench decision in McDowell [State of A.P. v. McDowell and Co.,(1996) 3 SCC 709] when it is said that a constitutional challenge can succeed on the ground that a law is \"disproportionate, excessive or unreasonable\", yet such challenge would fail on the very ground of the law being \"unreasonable, unnecessary or unwarranted\". ",
         "labels": [
             "O",
             "O",
@@ -13147,17 +13132,6 @@
             "O",
             "O",
             "O",
-            "B_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
             "O",
             "O",
             "O",
@@ -13196,7 +13170,18 @@
             "O",
             "O",
             "O",
-            "O"
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B_PRECEDENT"
         ]
     },
     "d800c78e01ec4547b11494b72f9997c4": {
@@ -14003,7 +13988,7 @@
         ]
     },
     "7609b31de13b4ebaa8488a9989ff57a5": {
-        "text": "The municipality issued the work order on 07.10.2008 and the same day an agreement was entered into between the municipality and the private respondent; the municipality released 12% of the total cost, i.e., \u20b9 1,44,00,000/- as mobilization advance to Respondent No. 9 on 20.12. 2008. \n\n7.",
+        "text": "The municipality issued the work order on 07.10.2008 and the same day an agreement was entered into between the municipality and the private respondent; the municipality released 12% of the total cost, i.e., Rs. 1,44,00,000/- as mobilization advance to Respondent No. 9 on 20.12. 2008. 7.",
         "labels": [
             "O",
             "O",
@@ -14054,7 +14039,7 @@
         ]
     },
     "35a78eb843c1414d98121dfef7e5a374": {
-        "text": "The material on record before the High Court in the form of inspection report dated 20.04.2019 and further materials including the Divisional Commissioner\u2019s affidavit, showed irregularities of a severe nature.",
+        "text": "The material on record before the High Court in the form of inspection report dated 20.04.2019 and further materials including the Divisional Commissioner's affidavit, showed irregularities of a severe nature.",
         "labels": [
             "O",
             "O",
@@ -14406,7 +14391,7 @@
         ]
     },
     "6f27110187c34e75ad60ebec9e926e1c": {
-        "text": "We may have again to look into provisions of Sections 437 (5) and 439 (2) of Cr.P.C. Sub-section (5) of Sections 437 of Cr.P.C uses expression \u2018if it considers it necessary so to do, direct that such person be arrested and commit him to custody\u2019.",
+        "text": "We may have again to look into provisions of Sections 437 (5) and 439 (2) of Cr.P.C. Sub-section (5) of Sections 437 of Cr.P.C uses expression 'if it considers it necessary so to do, direct that such person be arrested and commit him to custody'.",
         "labels": [
             "O",
             "O",
@@ -14613,7 +14598,7 @@
         ]
     },
     "04bb4f658f42427c9b7a4813f572ee01": {
-        "text": "\n\n (9) With regard to agricultural land owned in rural areas :\n 8.66% of Maratha families are landless, 62.74% of Maratha families own agricultural land not more than 2.5 acres, 19% own agricultural land more than 2.5 acres and less than 5 acres, 6% of Maratha families own agricultural land in the range of 5 to 10 acres and just 2.7% of Maratha families have agricultural land more than 10 acres.",
+        "text": " (9) With regard to agricultural land owned in rural areas : 8.66% of Maratha families are landless, 62.74% of Maratha families own agricultural land not more than 2.5 acres, 19% own agricultural land more than 2.5 acres and less than 5 acres, 6% of Maratha families own agricultural land in the range of 5 to 10 acres and just 2.7% of Maratha families have agricultural land more than 10 acres.",
         "labels": [
             "O",
             "O",
@@ -14823,7 +14808,7 @@
         ]
     },
     "0bf2be7ada224d528b9bd7181d39dcd1": {
-        "text": "Interest on the unpaid amount, penalty, and interest on penalty in relation to the past dues as on the date of the judgment of the Hon\u2019ble Supreme Court (arising due to the said judgment of the Supreme Court) will not be levied beyond the date of the said judgment, and the NPV will be protected using the discount rate.",
+        "text": "Interest on the unpaid amount, penalty, and interest on penalty in relation to the past dues as on the date of the judgment of the Hon'ble Supreme Court (arising due to the said judgment of the Supreme Court) will not be levied beyond the date of the said judgment, and the NPV will be protected using the discount rate.",
         "labels": [
             "O",
             "O",
@@ -14887,7 +14872,7 @@
         ]
     },
     "96d3e06d973445dfb4c6ae25e05e0f37": {
-        "text": "These provisions stipulate that a secured creditor who is seeking the intervention of the Magistrate under Section 14 is required to file an affidavit furnishing the information contemplated under various sub-clauses (i) to (ix) of the proviso and obligates the Magistrate to pass suitable orders regarding taking of the possession of the secured assets only after being satisfied with the contents of the affidavits.\" \n\n 27.",
+        "text": "These provisions stipulate that a secured creditor who is seeking the intervention of the Magistrate under Section 14 is required to file an affidavit furnishing the information contemplated under various sub-clauses (i) to (ix) of the proviso and obligates the Magistrate to pass suitable orders regarding taking of the possession of the secured assets only after being satisfied with the contents of the affidavits.\" 27.",
         "labels": [
             "O",
             "O",
@@ -14953,12 +14938,11 @@
             "O",
             "O",
             "O",
-            "O",
             "O"
         ]
     },
     "ebe04b008568452392121372137de993": {
-        "text": "\n\n 27. Devaky v. State of Kerala (1986 KHC 1), is a case charged under S.55(g), the question arose Crl.M.C.2719 of 2020 is whether accused was entitled to get a second analysis of the sample.",
+        "text": " 27. Devaky v. State of Kerala (1986 KHC 1), is a case charged under S.55(g), the question arose Crl.M.C.2719 of 2020 is whether accused was entitled to get a second analysis of the sample.",
         "labels": [
             "O",
             "O",
@@ -15021,7 +15005,7 @@
         ]
     },
     "50345666189d445d8956dc81938e2540": {
-        "text": "\n\n (b) The suit is decreed in part granting a sum of Rs.1,80,000/- towards past damages for use and occupation and future damages at Rs.15,000/- per month from the date of suit till the date of handing over possession.",
+        "text": " (b) The suit is decreed in part granting a sum of Rs.1,80,000/- towards past damages for use and occupation and future damages at Rs.15,000/- per month from the date of suit till the date of handing over possession.",
         "labels": [
             "O",
             "O",
@@ -15430,7 +15414,7 @@
         ]
     },
     "68719d2184014b04a0a4eefd53dc83a0": {
-        "text": "The Additional Commissioner, Nagpur and Arbitrator under the National Highways Act, 1956, having office at Old Secretariate Building, Civil Lines, Nagpur - 440001.\n4.",
+        "text": "The Additional Commissioner, Nagpur and Arbitrator under the National Highways Act, 1956, having office at Old Secretariate Building, Civil Lines, Nagpur - 440001.4.",
         "labels": [
             "O",
             "O",
@@ -15472,7 +15456,7 @@
         ]
     },
     "bb99c2e6d0d94235a8d7f760f9945874": {
-        "text": "One Mohd. Aslam, who was also one of the petitioners in Constitution Bench Judgment in Ismail Faruqui\u2019s case filed a writ petition seeking certain reliefs with regard to 67.703 acres of land acquired under the Act, 1993.",
+        "text": "One Mohd. Aslam, who was also one of the petitioners in Constitution Bench Judgment in Ismail Faruqui's case filed a writ petition seeking certain reliefs with regard to 67.703 acres of land acquired under the Act, 1993.",
         "labels": [
             "O",
             "B_PETITIONER",
@@ -15489,6 +15473,8 @@
             "I_COURT",
             "O",
             "O",
+            "B_OTHER_PERSON",
+            "I_OTHER_PERSON",
             "O",
             "O",
             "O",
@@ -15508,9 +15494,7 @@
             "O",
             "O",
             "O",
-            "O",
-            "O",
-            "B_OTHER_PERSON"
+            "O"
         ]
     },
     "b3734e957866412e9a8be489de47874e": {
@@ -15739,7 +15723,7 @@
         ]
     },
     "6b46de15e55c46d38818c9d4cc8fcdec": {
-        "text": "\n\n Both the courts have upheld the Will after recording a finding that execution of the Will has been proved on examining attesting witness Inder Singh as PW13, Sub-Registrar Baldev Singh, who registered the Will has been examined as PW5.",
+        "text": " Both the courts have upheld the Will after recording a finding that execution of the Will has been proved on examining attesting witness Inder Singh as PW13, Sub-Registrar Baldev Singh, who registered the Will has been examined as PW5.",
         "labels": [
             "O",
             "O",
@@ -15920,7 +15904,7 @@
         ]
     },
     "d1cc94f48d7048a2b4e2af12244d3cf7": {
-        "text": "He has deposed that on 30.10.2017, on the directions of the IO, he collected sealed pullanda of 100 gms ganja vide RC No. 235/21/17, already Ex. PW\u00ad3/B from MHC(M) for depositing the same at FSL, Rohini.",
+        "text": "He has deposed that on 30.10.2017, on the directions of the IO, he collected sealed pullanda of 100 gms ganja vide RC No. 235/21/17, already Ex. PW-3/B from MHC(M) for depositing the same at FSL, Rohini.",
         "labels": [
             "O",
             "O",
@@ -15961,7 +15945,7 @@
         ]
     },
     "a51f3096f8774663bd402193a60662d6": {
-        "text": "It would be useful to quote the observation of the Apex Court in (2013) 2 SCC 772. \n\n \"32.",
+        "text": "It would be useful to quote the observation of the Apex Court in (2013) 2 SCC 772. \"32.",
         "labels": [
             "O",
             "O",
@@ -15980,7 +15964,6 @@
             "I_PRECEDENT",
             "I_PRECEDENT",
             "I_PRECEDENT",
-            "O",
             "O"
         ]
     },
@@ -16414,7 +16397,7 @@
         ]
     },
     "5d37c5f5a9e44d85b55840b6fcc3b942": {
-        "text": "\n\n Briefly, the facts are that on 18.12.2001 at around 04:30 PM on Sitapur-Lucknow G.T. Road Near New Krishna Hall adjacent to Kamalpur Police Station, District Sitapur, the deceased Dukhi Ram was travelling in a Tempo of a Mahendra Economy Jeep No.UP-32-Z-9360.",
+        "text": " Briefly, the facts are that on 18.12.2001 at around 04:30 PM on Sitapur-Lucknow G.T. Road Near New Krishna Hall adjacent to Kamalpur Police Station, District Sitapur, the deceased Dukhi Ram was travelling in a Tempo of a Mahendra Economy Jeep No.UP-32-Z-9360.",
         "labels": [
             "O",
             "O",
@@ -16497,7 +16480,7 @@
         ]
     },
     "b9f45b0c12e04a63a8407923b6820d35": {
-        "text": "He has further deposed that after receiving the result from FSL as Ex. PW\u00ad5/B, same was filed before the Court.",
+        "text": "He has further deposed that after receiving the result from FSL as Ex. PW-5/B, same was filed before the Court.",
         "labels": [
             "O",
             "O",
@@ -16522,7 +16505,7 @@
         ]
     },
     "dd3f8a8da928436fa8c2bbd1fe5c2fbc": {
-        "text": "He supports Galligan in this respect and goes to the extent by saying that it is same as ensuring dignity of individuals, in respect of whom or against whom the decision is taken, in the following words:\n \"The instrumental value of procedures should not be underestimated; the accurate application of authoritative standards is, as Galligan clearly explains, an important aspect of treating someone with respect.",
+        "text": "He supports Galligan in this respect and goes to the extent by saying that it is same as ensuring dignity of individuals, in respect of whom or against whom the decision is taken, in the following words: \"The instrumental value of procedures should not be underestimated; the accurate application of authoritative standards is, as Galligan clearly explains, an important aspect of treating someone with respect.",
         "labels": [
             "O",
             "O",
@@ -16884,7 +16867,7 @@
         ]
     },
     "8e9a2ec3fdc14c9ea26c09b2bb3d96a0": {
-        "text": "The Ld. A.R. alternatively submitted that if the composite of rent and hire charges for the furniture and fixtures are taken together that could be taken the ALV and in defence of his proposition the Ld. A.R. relied on the following decisions:\n \"1. Shambhu Investment (P.) Ltd. vs. CIT (2003) 129 Taxman 70 (Supreme Court)\n 2. CIT vs. Shambhu Investment (P.) Ltd. \"(2001) 116 Taxman 795 (Calcutta High Court)",
+        "text": "The Ld. A.R. alternatively submitted that if the composite of rent and hire charges for the furniture and fixtures are taken together that could be taken the ALV and in defence of his proposition the Ld. A.R. relied on the following decisions: \"1. Shambhu Investment (P.) Ltd. vs. CIT (2003) 129 Taxman 70 (Supreme Court) 2. CIT vs. Shambhu Investment (P.) Ltd. \"(2001) 116 Taxman 795 (Calcutta High Court)",
         "labels": [
             "O",
             "O",
@@ -16929,18 +16912,18 @@
             "O",
             "O",
             "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
+            "B_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
             "O",
             "B_PRECEDENT",
             "I_PRECEDENT",
@@ -17032,7 +17015,7 @@
         ]
     },
     "3fa1e370d0db4b60aed02fa98f7ac604": {
-        "text": "\u201cLondon Arbitration is a well known phenomenon which is often chosen by foreign nationals with a dif- ferent law, such as the law of New York, governing the substantive rights of the parties.",
+        "text": "\"London Arbitration is a well known phenomenon which is often chosen by foreign nationals with a dif- ferent law, such as the law of New York, governing the substantive rights of the parties.",
         "labels": [
             "B_GPE",
             "O",
@@ -17310,7 +17293,7 @@
         ]
     },
     "6c036fe2177e419bbcd2d121dc857300": {
-        "text": "\n\nIt was held on the aforesaid facts, that the income received in British India could not be said to wholly arise in British India and that there should be allocation of income between the various business operations of the assessee demarcating the income arising in the taxable territories inthe particular year from the income arising without the taxable territories in that year.",
+        "text": "It was held on the aforesaid facts, that the income received in British India could not be said to wholly arise in British India and that there should be allocation of income between the various business operations of the assessee demarcating the income arising in the taxable territories inthe particular year from the income arising without the taxable territories in that year.",
         "labels": [
             "O",
             "O",
@@ -17496,7 +17479,7 @@
         ]
     },
     "14985a9cdfbc47c8b560a7ac0c8fb1e7": {
-        "text": "\n\n A Constitution Bench in the case of Commissioner of Customs (Import), Mumbai Vs. Dilip Kumar And Company And Ors., (2018) 9 SCC 1, had reiterated these principles.",
+        "text": " A Constitution Bench in the case of Commissioner of Customs (Import), Mumbai Vs. Dilip Kumar And Company And Ors., (2018) 9 SCC 1, had reiterated these principles.",
         "labels": [
             "O",
             "O",
@@ -17808,7 +17791,7 @@
         ]
     },
     "d133a787bd494435b662e1c500ae8de2": {
-        "text": "It was further contended that even if there was a conflict between the two decisions of this Court in the Municipal Corporation of the City of Ahmedabad v. Chandulal Shamaldas Patel and in Himalayan Tiles & Marbles (P) Ltd. Case both by Division Bench comprising of two Hon'ble Judges, the conflict can only be resolved by referring the case to a larger Bench of this Court.\" \n\n 36.",
+        "text": "It was further contended that even if there was a conflict between the two decisions of this Court in the Municipal Corporation of the City of Ahmedabad v. Chandulal Shamaldas Patel and in Himalayan Tiles & Marbles (P) Ltd. Case both by Division Bench comprising of two Hon'ble Judges, the conflict can only be resolved by referring the case to a larger Bench of this Court.\" 36.",
         "labels": [
             "O",
             "O",
@@ -17850,7 +17833,6 @@
             "I_PRECEDENT",
             "I_PRECEDENT",
             "I_PRECEDENT",
-            "O",
             "O",
             "O",
             "O",
@@ -18023,7 +18005,7 @@
         ]
     },
     "1007315fed414f7bb8abd51923458a92": {
-        "text": "\n\n It is settled legal position that, by way of interim relief, the final relief should not be granted till the matter is decided one way or the other, (Mehul Mahendra Thakkar v. Meena Mehul Thakkar ; All India Anna Dravida Munnetra Kazhagam v. Govt. of T.N., ), as interlocutory orders are made in aid of final orders and not vice versa.",
+        "text": " It is settled legal position that, by way of interim relief, the final relief should not be granted till the matter is decided one way or the other, (Mehul Mahendra Thakkar v. Meena Mehul Thakkar ; All India Anna Dravida Munnetra Kazhagam v. Govt. of T.N., ), as interlocutory orders are made in aid of final orders and not vice versa.",
         "labels": [
             "O",
             "O",
@@ -18170,7 +18152,7 @@
         ]
     },
     "f1c4247949d142ed950d15e532b09dbc": {
-        "text": "Article 248 would have to be re- drafted as follows:\n \"Parliament has exclusive power to make any law with respect to any matter not mentioned in the Concurrent List or State List, provided it has not been mentioned by way of exclusion in any entry in List I.",
+        "text": "Article 248 would have to be re- drafted as follows: \"Parliament has exclusive power to make any law with respect to any matter not mentioned in the Concurrent List or State List, provided it has not been mentioned by way of exclusion in any entry in List I.",
         "labels": [
             "B_PROVISION",
             "I_PROVISION",
@@ -18621,7 +18603,7 @@
         ]
     },
     "6175ca2fe98946d28f1db9782220ba80": {
-        "text": "Moreover, since this decision was rendered prior to the Constitution Bench decision in Iqbal Singh Marwah (supra), the three\u00adJudge Bench did not have the benefit of referring to the observations made in that case.",
+        "text": "Moreover, since this decision was rendered prior to the Constitution Bench decision in Iqbal Singh Marwah (supra), the three-Judge Bench did not have the benefit of referring to the observations made in that case.",
         "labels": [
             "O",
             "O",
@@ -18660,7 +18642,7 @@
         ]
     },
     "9f7210a71eaf4b99877f20c0d8db3ce6": {
-        "text": "These proceedings may be entertained either by the High Court or the Registrar on the application, and, at the instance, of the \"person aggrieved\". \n\n55.",
+        "text": "These proceedings may be entertained either by the High Court or the Registrar on the application, and, at the instance, of the \"person aggrieved\". 55.",
         "labels": [
             "O",
             "O",
@@ -18718,7 +18700,7 @@
         ]
     },
     "5046bff9affd47a4aa31bc6f1fe23d83": {
-        "text": "The right to create sub tenancy under the parent lease agreement of 4th October 1962 reads:\n\n \"5. Notwithstanding the permission of the lessor's first hand and obtained in writing to assign and/or transfer the lease of the demised premises but the lessor will have the right to sublet part of the premises on condition that the lessee will keep major portion of the premises under his occupation.\"\n ",
+        "text": "The right to create sub tenancy under the parent lease agreement of 4th October 1962 reads: \"5. Notwithstanding the permission of the lessor's first hand and obtained in writing to assign and/or transfer the lease of the demised premises but the lessor will have the right to sublet part of the premises on condition that the lessee will keep major portion of the premises under his occupation.\" ",
         "labels": [
             "O",
             "O",
@@ -18901,7 +18883,7 @@
         ]
     },
     "b9e248c504c244c5ba609e6087976e69": {
-        "text": "The said compensation along with interest shall be paid by Respondent No.1 to the Petitioner, within a period of eight weeks from today, failing which, on the entire amount, interest @ 7.5% per annum shall be liable to be paid by the Respondent No.1. \n\n35.",
+        "text": "The said compensation along with interest shall be paid by Respondent No.1 to the Petitioner, within a period of eight weeks from today, failing which, on the entire amount, interest @ 7.5% per annum shall be liable to be paid by the Respondent No.1. 35.",
         "labels": [
             "O",
             "O",
@@ -19259,7 +19241,7 @@
         ]
     },
     "dd8815195b9a45459806ef9d5d65890f": {
-        "text": "\n4) On appearance, charges under Sections 302 and 201 IPC came to be framed, read over and explained to the accused, to which the accused pleaded not guilty and claimed to be tried.",
+        "text": "4) On appearance, charges under Sections 302 and 201 IPC came to be framed, read over and explained to the accused, to which the accused pleaded not guilty and claimed to be tried.",
         "labels": [
             "O",
             "O",
@@ -19685,7 +19667,7 @@
         ]
     },
     "fb10351dd9954536b70dc56a238a4222": {
-        "text": "Counsel submits that these allegations were not stated by him in Ex.PW1/D1. \n\n24.",
+        "text": "Counsel submits that these allegations were not stated by him in Ex.PW1/D1. 24.",
         "labels": [
             "O",
             "O",
@@ -19756,7 +19738,7 @@
         ]
     },
     "52c424ecddc44515b9d83bc800822689": {
-        "text": "In the case of Bhavnagar University v. Palitana Sugar Mill Pvt. Ltd. & Ors., reported in AIR 2003 SC C/SCA/11794/2006 JUDGMENT 511, the Hon'ble Supreme Court has observed in para 27, 32 to 35 and 38 as under:\n\"27.",
+        "text": "In the case of Bhavnagar University v. Palitana Sugar Mill Pvt. Ltd. & Ors., reported in AIR 2003 SC C/SCA/11794/2006 JUDGMENT 511, the Hon'ble Supreme Court has observed in para 27, 32 to 35 and 38 as under:\"27.",
         "labels": [
             "O",
             "O",
@@ -19962,7 +19944,7 @@
         ]
     },
     "f4086f52478a4f46a4bba7501419fcfc": {
-        "text": "The case of the Plaintiff as stated in the plaint is that, Plaintiff was searching for some residential property in Roop Nagar area, Delhi and he was informed about the suit property by Property dealers- Shri Gagan Makkar and Shri Harmeet Singh (hereinafter \u201ethe brokers\u201f).",
+        "text": "The case of the Plaintiff as stated in the plaint is that, Plaintiff was searching for some residential property in Roop Nagar area, Delhi and he was informed about the suit property by Property dealers- Shri Gagan Makkar and Shri Harmeet Singh (hereinafter \"the brokers\").",
         "labels": [
             "O",
             "O",
@@ -20053,7 +20035,7 @@
         ]
     },
     "960a6612b8e04da4963d828b63857da0": {
-        "text": "The Court held: 13 (1995) 3 SCC 377 \u201c10. What is really relevant thus is the conduct of the government servant which has led to his conviction on a criminal charge.",
+        "text": "The Court held: 13 (1995) 3 SCC 377 \"10. What is really relevant thus is the conduct of the government servant which has led to his conviction on a criminal charge.",
         "labels": [
             "O",
             "O",
@@ -20265,9 +20247,8 @@
         ]
     },
     "ab80fada55284dc4a5630ee96e82f8ed": {
-        "text": "The sole question is, who has standing to be heard?\" \n\n 130 of 148 CWP No.18253 of 2009 & other connected petitions #131#\n\n74.",
+        "text": "The sole question is, who has standing to be heard?\" 130 of 148 CWP No.18253 of 2009 & other connected petitions #131#74.",
         "labels": [
-            "O",
             "O",
             "O",
             "O",
@@ -20293,7 +20274,7 @@
         ]
     },
     "47dfd156afdc496eb4c580f319dd1a0e": {
-        "text": "Further, in re Pooja Ravinder Devidasani (supra), the Supreme Court has observed as under:-\n\n \"17.",
+        "text": "Further, in re Pooja Ravinder Devidasani (supra), the Supreme Court has observed as under:- \"17.",
         "labels": [
             "O",
             "O",
@@ -20313,7 +20294,7 @@
         ]
     },
     "7efef538c07a4d6a8d34152d5eb4b84d": {
-        "text": "Hence we pass the following order:\n\n O R D E R (I) Both Criminal Appeals i.e. Criminal Appeal No.1211/2018 and Criminal Appeal No.301/2017 are allowed. \n\n Cri.Apeal 1211.18 (II)",
+        "text": "Hence we pass the following order: O R D E R (I) Both Criminal Appeals i.e. Criminal Appeal No.1211/2018 and Criminal Appeal No.301/2017 are allowed. Cri.Apeal 1211.18 (II)",
         "labels": [
             "O",
             "O",
@@ -20338,7 +20319,6 @@
             "B_CASE_NUMBER",
             "I_CASE_NUMBER",
             "I_CASE_NUMBER",
-            "O",
             "O",
             "O",
             "O",
@@ -20546,7 +20526,7 @@
         ]
     },
     "5e76828167304fb08509d6c48300c792": {
-        "text": "The Hon'ble Supreme Court has held in the matter of M. G. Aggarwal versus State of Maharashtra, AIR 1963 SC 200, the relevant part is extracted as under:\n \"(16) Section 423(1) prescribes the powers of the appellate Court in disposing of appeals preferred before it and clauses (a) and (b) deal with appeals against acquittals and appeals against convictions respectively.",
+        "text": "The Hon'ble Supreme Court has held in the matter of M. G. Aggarwal versus State of Maharashtra, AIR 1963 SC 200, the relevant part is extracted as under: \"(16) Section 423(1) prescribes the powers of the appellate Court in disposing of appeals preferred before it and clauses (a) and (b) deal with appeals against acquittals and appeals against convictions respectively.",
         "labels": [
             "O",
             "O",
@@ -20880,7 +20860,7 @@
         ]
     },
     "2a7f3d938ee646529f2f4ee5736c3bbc": {
-        "text": "The High Court, therefore, gave benefit to said three accused as under:- Crl. Appeal Nos. 1709-1710 of 2019 (@ SLP [Crl.]Nos.2497-2498 of 2019) The State of Madhya Pradesh vs. Killu @ Kailash & Ors. \n\n \u201c21.From the aforesaid quoted judgment",
+        "text": "The High Court, therefore, gave benefit to said three accused as under:- Crl. Appeal Nos. 1709-1710 of 2019 (@ SLP [Crl.]Nos.2497-2498 of 2019) The State of Madhya Pradesh vs. Killu @ Kailash & Ors. \"21.From the aforesaid quoted judgment",
         "labels": [
             "O",
             "O",
@@ -20920,12 +20900,11 @@
             "O",
             "O",
             "O",
-            "O",
             "O"
         ]
     },
     "171115c593d949c28b53971538f97b23": {
-        "text": "He lodged a First Information Report with the police and after investigations, necessary proceedings were taken before the District and Sessions Judge, Bagalkot against the accused persons under several sections of the Indian Penal Code (the IPC). \n\n Crl. Appeal Nos._______/2018 (@ S.L.P. (Crl.) Nos. 7040-7041 of 2014)\n\n12.",
+        "text": "He lodged a First Information Report with the police and after investigations, necessary proceedings were taken before the District and Sessions Judge, Bagalkot against the accused persons under several sections of the Indian Penal Code (the IPC). Crl. Appeal Nos._______/2018 (@ S.L.P. (Crl.) Nos. 7040-7041 of 2014)12.",
         "labels": [
             "O",
             "O",
@@ -20964,7 +20943,6 @@
             "I_STATUTE",
             "O",
             "B_STATUTE",
-            "O",
             "O",
             "O",
             "O",
@@ -21210,7 +21188,7 @@
         ]
     },
     "193601acab474f37826bc4e22d0bec1f": {
-        "text": "\n There is no constitutional or legal bar on the State in categorizing women in social categories.",
+        "text": " There is no constitutional or legal bar on the State in categorizing women in social categories.",
         "labels": [
             "O",
             "O",
@@ -21253,7 +21231,7 @@
         ]
     },
     "b61aaadec6944db7ae123bcd63441609": {
-        "text": " The contention of the petitioner is that the authorities have allocated her to the State of Andhra Pradesh instead of State of Telangana without considering the objections raised by her and also on the sole ground that she studied upto Class X in the State of Andhra Pradesh.\n\n\n9. ",
+        "text": " The contention of the petitioner is that the authorities have allocated her to the State of Andhra Pradesh instead of State of Telangana without considering the objections raised by her and also on the sole ground that she studied upto Class X in the State of Andhra Pradesh.9. ",
         "labels": [
             "O",
             "O",
@@ -21411,7 +21389,7 @@
         ]
     },
     "36c656a457ca4460a2a8805e386efd9c": {
-        "text": "\n\nExP4 Certified copy of sale deed dated 03/08/1995 executed by defendant No.1 and 2 in favour of defendant No.11 and 12 in respect of land measuring 15 guntas including 2 guntas Kharab land in Sy.No. 61/1, Chellaghatta village, Varthur Hobli, Bangalore South Taluk.",
+        "text": "ExP4 Certified copy of sale deed dated 03/08/1995 executed by defendant No.1 and 2 in favour of defendant No.11 and 12 in respect of land measuring 15 guntas including 2 guntas Kharab land in Sy.No. 61/1, Chellaghatta village, Varthur Hobli, Bangalore South Taluk.",
         "labels": [
             "O",
             "O",
@@ -21544,7 +21522,7 @@
         ]
     },
     "5e8ca1bb3a9a4171a37f3ab939871b05": {
-        "text": "(Writ Tax No. 524/2021) decided in favour of assessees/petitioners on 30.09.2021 by holding inter alia in relevant Paragraph Nos. 63 to 80 as hereunder:\n \"63.",
+        "text": "(Writ Tax No. 524/2021) decided in favour of assessees/petitioners on 30.09.2021 by holding inter alia in relevant Paragraph Nos. 63 to 80 as hereunder: \"63.",
         "labels": [
             "B_CASE_NUMBER",
             "I_CASE_NUMBER",
@@ -21640,7 +21618,7 @@
         ]
     },
     "ea5511a3b3b34f288423ac7020a4af60": {
-        "text": "It would be relevant to quote from paragraph 1.10 of the said report under the head RATIONALE BEHIND MOVING TOWARDS GST as under:\n \"1.10 The introduction of GST would mark a clear departure from the scheme of distribution of fscal powers envisaged in the Constitution.",
+        "text": "It would be relevant to quote from paragraph 1.10 of the said report under the head RATIONALE BEHIND MOVING TOWARDS GST as under: \"1.10 The introduction of GST would mark a clear departure from the scheme of distribution of fscal powers envisaged in the Constitution.",
         "labels": [
             "O",
             "O",
@@ -21746,7 +21724,7 @@
         ]
     },
     "6d53a4bc0dff4c9496c8dede1b487255": {
-        "text": "\n\n Mr. Ranjan Bachawat learned Senior counsel appearing on behalf of the appellant has strenuously argued that the suit for mesne profits is barred under Section 10 of the Code of Civil Procedure on the premise that the decree passed in the earlier suit for eviction is under appeal and appeal is a continuation of the suit.",
+        "text": " Mr. Ranjan Bachawat learned Senior counsel appearing on behalf of the appellant has strenuously argued that the suit for mesne profits is barred under Section 10 of the Code of Civil Procedure on the premise that the decree passed in the earlier suit for eviction is under appeal and appeal is a continuation of the suit.",
         "labels": [
             "O",
             "O",
@@ -22034,7 +22012,7 @@
         ]
     },
     "537ac947307946428faf4da3aaa7ebb1": {
-        "text": "Evidence of Mukteshwar (PW\u00ad5) is that Mihir assaulted Anil and Jatu with the axe on their heads whereas Prabhat with another brother assaulted Premchand and Puranchand.",
+        "text": "Evidence of Mukteshwar (PW-5) is that Mihir assaulted Anil and Jatu with the axe on their heads whereas Prabhat with another brother assaulted Premchand and Puranchand.",
         "labels": [
             "O",
             "O",
@@ -22339,7 +22317,7 @@
         ]
     },
     "5dfd559cbbe6429498c2cf7fb1491b0e": {
-        "text": "\nCounsel further contends that, by reason of sub-section (1) of Section 14 of the Hindu Succession Act, 1956 (hereinafter \"the Act\"), this limited interest blossomed into an absolute interest.",
+        "text": "Counsel further contends that, by reason of sub-section (1) of Section 14 of the Hindu Succession Act, 1956 (hereinafter \"the Act\"), this limited interest blossomed into an absolute interest.",
         "labels": [
             "O",
             "O",
@@ -22601,7 +22579,7 @@
         ]
     },
     "516f169c9b374fffb300314394524082": {
-        "text": "\n\n 7) Ld. counsel for the complainant contended that the accused has admitted that the dishonoured cheques in question bears her signature and legal presumption of consideration u/s 139 of NI Act would act against the accused.",
+        "text": " 7) Ld. counsel for the complainant contended that the accused has admitted that the dishonoured cheques in question bears her signature and legal presumption of consideration u/s 139 of NI Act would act against the accused.",
         "labels": [
             "O",
             "O",
@@ -22799,7 +22777,7 @@
         ]
     },
     "06e7d11ab82145b7b0a5644d3d5e217d": {
-        "text": "\n\n 62] However, since, in Tapasya Pisal (supra), the Supreme Court in the concluding portion of its decision had used the expression \"in the interests of justice\" , it was suggested at Bar, that this was probably a case of the Supreme Court exercising its powers under Article 142 of the Constitution of India, which powers undoubtedly, this Court does not possess.",
+        "text": " 62] However, since, in Tapasya Pisal (supra), the Supreme Court in the concluding portion of its decision had used the expression \"in the interests of justice\" , it was suggested at Bar, that this was probably a case of the Supreme Court exercising its powers under Article 142 of the Constitution of India, which powers undoubtedly, this Court does not possess.",
         "labels": [
             "O",
             "O",
@@ -23084,7 +23062,7 @@
         ]
     },
     "75438f8024d144b2bab9fc1678c31ceb": {
-        "text": "\n\n Secondly, Smt.Sandhya (PW-3), the employer of the deceased in her cross examination has admitted that the family of the deceased was receiving family pension of Rs.15,000/- per month.",
+        "text": " Secondly, Smt.Sandhya (PW-3), the employer of the deceased in her cross examination has admitted that the family of the deceased was receiving family pension of Rs.15,000/- per month.",
         "labels": [
             "O",
             "O",
@@ -23118,7 +23096,7 @@
         ]
     },
     "980651bb1a3f479b974a3cdf1219e151": {
-        "text": "We follow Godse's case (supra) to hold that imprisonment for life lasts until the last breath, and whatever the length of remissions earned, the prisoner can claim release only if the remaining sentence is remitted by Government. \n\n7.",
+        "text": "We follow Godse's case (supra) to hold that imprisonment for life lasts until the last breath, and whatever the length of remissions earned, the prisoner can claim release only if the remaining sentence is remitted by Government. 7.",
         "labels": [
             "O",
             "O",
@@ -23415,7 +23393,7 @@
         ]
     },
     "3b86a21a9a4b4da0b81b5008276f3db8": {
-        "text": "The Supreme Court by judgment dated 14.2.2019 passed in Civil Appeal No.1665/2019 (Sunita and Ors. Vs. Rajasthan State Road Transport Corporation & Anr.) has held as under :-\n\n \"20........",
+        "text": "The Supreme Court by judgment dated 14.2.2019 passed in Civil Appeal No.1665/2019 (Sunita and Ors. Vs. Rajasthan State Road Transport Corporation & Anr.) has held as under :- \"20........",
         "labels": [
             "O",
             "B_COURT",
@@ -23470,7 +23448,7 @@
         ]
     },
     "b75a52d81bb04c59be487fa38498ace9": {
-        "text": "My findings to the above points is as follows;\n 1. Point No.1: In the affirmative 2. Point No.2: As per final order for the following;\n REASONS 08.",
+        "text": "My findings to the above points is as follows; 1. Point No.1: In the affirmative 2. Point No.2: As per final order for the following; REASONS 08.",
         "labels": [
             "O",
             "O",
@@ -23537,7 +23515,7 @@
         ]
     },
     "7991ded84b4f40ca8956cd43e302a42b": {
-        "text": "To demonstrate this view of the Delhi High Court, the following decisions were cited by Mr. Kohli:\n 21.1.Gulf DTH FZ LLC vs Dish TV Limited & Ors.",
+        "text": "To demonstrate this view of the Delhi High Court, the following decisions were cited by Mr. Kohli: 21.1.Gulf DTH FZ LLC vs Dish TV Limited & Ors.",
         "labels": [
             "O",
             "O",
@@ -23555,7 +23533,7 @@
             "O",
             "O",
             "O",
-            "O",
+            "B_OTHER_PERSON",
             "B_PRECEDENT",
             "I_PRECEDENT",
             "I_PRECEDENT",
@@ -23594,7 +23572,7 @@
         ]
     },
     "f090d52b70464345853130d31c20fdb3": {
-        "text": "The plaintiff of Suit No.37 of 1984 Senthil Kumaravel in his written statement in Suit No. 1101 of 1987 has clearly stated that he filed the Suit No.37 of 1984 at the instance of defendant No.1, which fact has also been noted in paragraph 9 of the trial court\u2019s judgment. \n\n87.",
+        "text": "The plaintiff of Suit No.37 of 1984 Senthil Kumaravel in his written statement in Suit No. 1101 of 1987 has clearly stated that he filed the Suit No.37 of 1984 at the instance of defendant No.1, which fact has also been noted in paragraph 9 of the trial court's judgment. 87.",
         "labels": [
             "O",
             "O",
@@ -24412,7 +24390,7 @@
         ]
     },
     "c3a5f76462d64a69b7c7dde22dc84f15": {
-        "text": "ANALYSIS:\n6. From perusal of the same, it is evident that as per the case set up by the appellant/complainant that the appellant claims that the amount in question was advanced in cash in the presence of two witnesses Vinod Kumar and Priya Kapoor, after withdrawing the amount from the bank i.e. Punjab and Sind Bank, Tarn Taran.",
+        "text": "ANALYSIS:6. From perusal of the same, it is evident that as per the case set up by the appellant/complainant that the appellant claims that the amount in question was advanced in cash in the presence of two witnesses Vinod Kumar and Priya Kapoor, after withdrawing the amount from the bank i.e. Punjab and Sind Bank, Tarn Taran.",
         "labels": [
             "O",
             "O",
@@ -24474,7 +24452,7 @@
         ]
     },
     "626d02bd09fc4a0992af265a4116d964": {
-        "text": "\n\n 51] In X and ors. vs. Union of India and ors. - (2017) 3 SCC 458, the Supreme Court was concerned with a pregnancy which had advanced into the 24 th week.",
+        "text": " 51] In X and ors. vs. Union of India and ors. - (2017) 3 SCC 458, the Supreme Court was concerned with a pregnancy which had advanced into the 24 th week.",
         "labels": [
             "O",
             "O",
@@ -24512,7 +24490,7 @@
         ]
     },
     "bff55f9a1c144652b0f039ebf57d5f49": {
-        "text": "The mortgage deed dated 22.02.2007, Ex.PW1/2 reads to the effect:\n \"And whereas all above three sons and daughters of late Durga Prasad (Dwarka Prasad) executed a relinquishment deed in respect of said property in favor of their mother i.e. second party Smt. Kamla Devi.",
+        "text": "The mortgage deed dated 22.02.2007, Ex.PW1/2 reads to the effect: \"And whereas all above three sons and daughters of late Durga Prasad (Dwarka Prasad) executed a relinquishment deed in respect of said property in favor of their mother i.e. second party Smt. Kamla Devi.",
         "labels": [
             "O",
             "O",
@@ -24835,7 +24813,7 @@
         ]
     },
     "61a0a48e7aef4d1cb6a96819f52e4ed4": {
-        "text": "\n\n The introduction, statement of objects and reasons to the legal Metrology Act, 2009 reads thus:\n INTRODUCTION: \nIn 1956 uniform standards of weights and measures based on metric systems were established, which were revised in 1976 with a view to give effect to the international system of units.",
+        "text": " The introduction, statement of objects and reasons to the legal Metrology Act, 2009 reads thus: INTRODUCTION: In 1956 uniform standards of weights and measures based on metric systems were established, which were revised in 1976 with a view to give effect to the international system of units.",
         "labels": [
             "O",
             "O",
@@ -25373,7 +25351,7 @@
         ]
     },
     "bc9a1bf753f54813b826b16416a303a1": {
-        "text": "She was medically examined on 17-10-2000 at 12:40 A.M. in the night and following injuries were found on her body :\n 1. Firearm gun shot injury wound of entrance on the right side of abdomen near (Not \"legible\" but as per evidence \"Navel\") inverted margins oval shape.",
+        "text": "She was medically examined on 17-10-2000 at 12:40 A.M. in the night and following injuries were found on her body : 1. Firearm gun shot injury wound of entrance on the right side of abdomen near (Not \"legible\" but as per evidence \"Navel\") inverted margins oval shape.",
         "labels": [
             "O",
             "O",
@@ -25425,7 +25403,7 @@
         ]
     },
     "dddeff4b3db042c5afde792d1ce2f025": {
-        "text": "\n\n After fresh investigation, CBI filed a charge-sheet bearing No. 1/2010 in the present case on 13-1-2010.",
+        "text": " After fresh investigation, CBI filed a charge-sheet bearing No. 1/2010 in the present case on 13-1-2010.",
         "labels": [
             "O",
             "O",
@@ -25512,7 +25490,7 @@
         ]
     },
     "fd48ddca62784018ba098cbcfbc9fb1d": {
-        "text": "By the impugned order, the execution court allowed E.A.No.780 of 2020 and the 6 th O.P.(C)No.446 of 2021 & :-81-:\nC.R.P.No.81 of 2021 respondent District Educational Officer, Ernakulam, was directed to approve change of management of the school, based on the application made by the decree holders.",
+        "text": "By the impugned order, the execution court allowed E.A.No.780 of 2020 and the 6 th O.P.(C)No.446 of 2021 & :-81-:C.R.P.No.81 of 2021 respondent District Educational Officer, Ernakulam, was directed to approve change of management of the school, based on the application made by the decree holders.",
         "labels": [
             "O",
             "O",
@@ -25872,7 +25850,7 @@
         ]
     },
     "2c3749f0ad52419889b38f564c477b8f": {
-        "text": "\n\n Since the appeals have arisen out of decision of two civil suit Nos.436-CS of 2005 and 76 of 2005, the facts are being taken from lead case, i.e. RSA No.1102 of 2013.",
+        "text": " Since the appeals have arisen out of decision of two civil suit Nos.436-CS of 2005 and 76 of 2005, the facts are being taken from lead case, i.e. RSA No.1102 of 2013.",
         "labels": [
             "O",
             "O",
@@ -26010,7 +25988,7 @@
         ]
     },
     "457ca8cd8e404555991120c5add19cab": {
-        "text": "\n\n 233. Article 48 has to be read conjointly with Article 1.2.1 (b) which provides that references to laws of India or Indian law or regulation having the force of law shall include the laws, acts, ordinances, rules, regulations, bye laws or notifications which have the force of law in the territory of India and as from time to time may be amended, modified, supplemented, extended or re-enacted.",
+        "text": " 233. Article 48 has to be read conjointly with Article 1.2.1 (b) which provides that references to laws of India or Indian law or regulation having the force of law shall include the laws, acts, ordinances, rules, regulations, bye laws or notifications which have the force of law in the territory of India and as from time to time may be amended, modified, supplemented, extended or re-enacted.",
         "labels": [
             "O",
             "O",
@@ -26157,7 +26135,7 @@
         ]
     },
     "6f0733edb8584bd087e4dc06a47ef07d": {
-        "text": "Accordingly, I hold that the Revisional Court has rightly set aside the order of R.C. & E.O. passed on review petition of the landlord filed before R.C. & E.O. and rightly allowed the review petition of the landlord filed before R.C. & E.O. and quashed the allotment in favour of the Bankey Lal.\" \n\n 20.",
+        "text": "Accordingly, I hold that the Revisional Court has rightly set aside the order of R.C. & E.O. passed on review petition of the landlord filed before R.C. & E.O. and rightly allowed the review petition of the landlord filed before R.C. & E.O. and quashed the allotment in favour of the Bankey Lal.\" 20.",
         "labels": [
             "O",
             "O",
@@ -26212,7 +26190,6 @@
             "O",
             "B_OTHER_PERSON",
             "I_OTHER_PERSON",
-            "O",
             "O"
         ]
     },
@@ -26325,9 +26302,8 @@
         ]
     },
     "a75d64d2b0f046fa93d3208fc1ca1510": {
-        "text": "On a careful consideration, there- fore, of the authorities referred to above, the following propositions emerge:\n 1. That in order to decide the question of repugnancy it must be shown that the two enactments con- tain inconsistent and irreconcil- able provisions, so that they can- not stand together or operate in the same field. \n\n 2.",
+        "text": "On a careful consideration, there- fore, of the authorities referred to above, the following propositions emerge: 1. That in order to decide the question of repugnancy it must be shown that the two enactments con- tain inconsistent and irreconcil- able provisions, so that they can- not stand together or operate in the same field. 2.",
         "labels": [
-            "O",
             "O",
             "O",
             "O",
@@ -26425,7 +26401,7 @@
         ]
     },
     "098443748ee84f7e878a3f2fea215a5a": {
-        "text": "For the purposes of this sub-section, certificate of insurance means the certificate issued under sub-section (3) of section 147. \n\n(4) If the licence referred to in sub-section (2) or the certificates or permit referred to in sub-section (3), as the case may be, are not at the time in the possession of the person to whom demand is made",
+        "text": "For the purposes of this sub-section, certificate of insurance means the certificate issued under sub-section (3) of section 147. (4) If the licence referred to in sub-section (2) or the certificates or permit referred to in sub-section (3), as the case may be, are not at the time in the possession of the person to whom demand is made",
         "labels": [
             "O",
             "O",
@@ -26489,7 +26465,7 @@
         ]
     },
     "71b625b1c49c4c9db29870d06bf34e49": {
-        "text": "This is also borne out from illustration (c) to Section 300 IPC which is being reproduced below: -\n \"(c) A intentionally gives Z a sword-cut or club- wound sufficient to cause the death of a man in the ordinary course of nature.",
+        "text": "This is also borne out from illustration (c) to Section 300 IPC which is being reproduced below: - \"(c) A intentionally gives Z a sword-cut or club- wound sufficient to cause the death of a man in the ordinary course of nature.",
         "labels": [
             "O",
             "O",
@@ -26536,7 +26512,7 @@
         ]
     },
     "3c7945e10de94ccc858fb5f789b91b71": {
-        "text": "\n\n The principle of attribution has been upheld by the Hon'ble Supreme Court of India in the case of CIT vs. Ahmedbhai Umarbhai& Co.: 18 ITR 472.",
+        "text": " The principle of attribution has been upheld by the Hon'ble Supreme Court of India in the case of CIT vs. Ahmedbhai Umarbhai& Co.: 18 ITR 472.",
         "labels": [
             "O",
             "O",
@@ -26669,7 +26645,7 @@
         ]
     },
     "250889a9764d4780a7036846aeaa8f60": {
-        "text": "This Court in a Public Interest Litigation in Writ Petition No.196 of 2001, People\u2019s Union for Civil Liberties vs. Union of India and 4 others, had issued various directions for protection of right to food of the poor and the underprivileged sections including children and women.",
+        "text": "This Court in a Public Interest Litigation in Writ Petition No.196 of 2001, People's Union for Civil Liberties vs. Union of India and 4 others, had issued various directions for protection of right to food of the poor and the underprivileged sections including children and women.",
         "labels": [
             "O",
             "O",
@@ -26679,23 +26655,6 @@
             "O",
             "O",
             "O",
-            "B_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
             "O",
             "O",
             "O",
@@ -26716,7 +26675,24 @@
             "O",
             "O",
             "O",
-            "O"
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B_PRECEDENT"
         ]
     },
     "dab46411e22d42588ab2c66429f8da9f": {
@@ -26783,9 +26759,8 @@
         ]
     },
     "59830c7cd79f4e078ead0b50e51c1214": {
-        "text": "\n\n It will be open for the respondents to give their say on the merits of each of the 339 complainants. \n\n ",
+        "text": " It will be open for the respondents to give their say on the merits of each of the 339 complainants. ",
         "labels": [
-            "O",
             "O",
             "O",
             "O",
@@ -26811,7 +26786,7 @@
         ]
     },
     "dc50701cd33f45628bbc2d353828ef29": {
-        "text": "Similarly, judgment of this Court in Mohd. Aslam alias Bhure Vs. Union of India and Others, (2003) 2 SCC 576 was a case where an interim order was passed by this Court with regard to acquisition of 67.703 acres of land as was noticed in Ismail Faruqui\u2019s case.",
+        "text": "Similarly, judgment of this Court in Mohd. Aslam alias Bhure Vs. Union of India and Others, (2003) 2 SCC 576 was a case where an interim order was passed by this Court with regard to acquisition of 67.703 acres of land as was noticed in Ismail Faruqui's case.",
         "labels": [
             "O",
             "O",
@@ -26858,9 +26833,9 @@
             "O",
             "O",
             "O",
-            "B_OTHER_PERSON",
-            "I_OTHER_PERSON",
-            "O"
+            "O",
+            "O",
+            "B_OTHER_PERSON"
         ]
     },
     "3b60237d90ee4f1293c47af84df1e221": {
@@ -26991,7 +26966,7 @@
         ]
     },
     "107ef15a3a404c8e97688611c409c196": {
-        "text": ",\n\n it was stated that pursuant to an amendment in the Waqf Act, 1995 ('the Central Act' for short) in the year 2013, the Waqf Board took a decision to acquire the Waqf property and place it under its direct control for the purpose of development.",
+        "text": ", it was stated that pursuant to an amendment in the Waqf Act, 1995 ('the Central Act' for short) in the year 2013, the Waqf Board took a decision to acquire the Waqf property and place it under its direct control for the purpose of development.",
         "labels": [
             "O",
             "O",
@@ -27361,7 +27336,7 @@
         ]
     },
     "ffde03fe50a143fea004b108db06c37b": {
-        "text": "It is submitted that the Hon\u2019ble High Court directed in its order dated 20.06.2019 in WP No.17384 of 2019 that the respondents are to submit a report in the form of an affidavit, duly supported by documents as to what action has been taken against the alleged violations.",
+        "text": "It is submitted that the Hon'ble High Court directed in its order dated 20.06.2019 in WP No.17384 of 2019 that the respondents are to submit a report in the form of an affidavit, duly supported by documents as to what action has been taken against the alleged violations.",
         "labels": [
             "O",
             "O",
@@ -27711,7 +27686,7 @@
         ]
     },
     "b1c761f443384190a13a14305b8f92d2": {
-        "text": "\n\n Prosecution has sought to rely on the evidence of P.W.s 2, 4 to 8 with regard to the recovery of 191 kgs of ganja from the rear seat of a Tata Mahindra Marshal vehicle bearing registration no.WB-26C-3869 at Helabattala, Barasat around 6.15 a.m. of 27.09.2006 which was driven and occupied by the appellants.",
+        "text": " Prosecution has sought to rely on the evidence of P.W.s 2, 4 to 8 with regard to the recovery of 191 kgs of ganja from the rear seat of a Tata Mahindra Marshal vehicle bearing registration no.WB-26C-3869 at Helabattala, Barasat around 6.15 a.m. of 27.09.2006 which was driven and occupied by the appellants.",
         "labels": [
             "O",
             "O",
@@ -28250,7 +28225,7 @@
         ]
     },
     "e8ab02df67d54b398e53984e751348dc": {
-        "text": "In support of her contention, the learned counsel for the appellant Ms.Kiran Suri referred to the decision of the Bombay High Court in Municipal Corporation of Greater Bombay v. Kisan Gangaram Hire [1987 ACJ 311] wherein the Court dealt with a similar contention and observed thus:\n \"8.",
+        "text": "In support of her contention, the learned counsel for the appellant Ms.Kiran Suri referred to the decision of the Bombay High Court in Municipal Corporation of Greater Bombay v. Kisan Gangaram Hire [1987 ACJ 311] wherein the Court dealt with a similar contention and observed thus: \"8.",
         "labels": [
             "O",
             "O",
@@ -28316,7 +28291,7 @@
         ]
     },
     "a658988bd784452fbafc6634cfa3c47a": {
-        "text": "Reference, in this connection, may also be made to Ram Chandra Singh v. Savitri Devi [(2003) 8 SCC 319 : JT (2005) 11 SC 439] .\n\n\n\n23.",
+        "text": "Reference, in this connection, may also be made to Ram Chandra Singh v. Savitri Devi [(2003) 8 SCC 319 : JT (2005) 11 SC 439] .23.",
         "labels": [
             "O",
             "O",
@@ -28347,7 +28322,7 @@
         ]
     },
     "eb3eaedd6de54f19bdc834dc0ffc6c5e": {
-        "text": "\n\n P.W.2 Kubendroji Rao has deposed that the marriage talks took place in the house of P.W.1 at Channagiri and on the side of the bride, himself, Channa Veeroji Rao, Shivaji Rao, Ningoji Rao and parents of bride were present.",
+        "text": " P.W.2 Kubendroji Rao has deposed that the marriage talks took place in the house of P.W.1 at Channagiri and on the side of the bride, himself, Channa Veeroji Rao, Shivaji Rao, Ningoji Rao and parents of bride were present.",
         "labels": [
             "O",
             "O",
@@ -28505,7 +28480,7 @@
         ]
     },
     "250c818ef4d84314b2a67d3a1805ee26": {
-        "text": "On the other hand, learned counsel appearing on behalf of the respondent \u2013 Central Bureau of Investigation has very vehemently opposed the grant of bail.",
+        "text": "On the other hand, learned counsel appearing on behalf of the respondent - Central Bureau of Investigation has very vehemently opposed the grant of bail.",
         "labels": [
             "O",
             "O",
@@ -28645,7 +28620,7 @@
         ]
     },
     "54b57e0f2a7741b19f2bc7f7da2e2ecf": {
-        "text": "From the above three decisions, the following principles can be deduced: 1) the propounder of the Will has to dispel the suspicious circumstances surrounding the execution of the Will, and (2) in order to prove the Will, one of the attestors has to be examined in view of Section 68 of Indian Evidence Act and Section 63 of the Indian Succession Act. \n\n39",
+        "text": "From the above three decisions, the following principles can be deduced: 1) the propounder of the Will has to dispel the suspicious circumstances surrounding the execution of the Will, and (2) in order to prove the Will, one of the attestors has to be examined in view of Section 68 of Indian Evidence Act and Section 63 of the Indian Succession Act. 39",
         "labels": [
             "O",
             "O",
@@ -28922,7 +28897,7 @@
         ]
     },
     "733be38b20524378823363af3b8df877": {
-        "text": "\n\n She further stated that in summer of 2005, Sabeena (A-8) took her to a hotel where they met accused Anil Sethi (A-7), who took her to Imperial Hotel, Nehru Park and had sexual intercourse with her in a room on the second floor of the hotel.",
+        "text": " She further stated that in summer of 2005, Sabeena (A-8) took her to a hotel where they met accused Anil Sethi (A-7), who took her to Imperial Hotel, Nehru Park and had sexual intercourse with her in a room on the second floor of the hotel.",
         "labels": [
             "O",
             "O",
@@ -28974,7 +28949,7 @@
         ]
     },
     "205d406cff6c470c865e24ccd7ac6e03": {
-        "text": "Permanent Residential Certificate issued from outside the State upto 24th March, 1971 (midnight) (which all should be got verified from the issuing authority by the Registering authority)\n\n6. Refugee registration certificate issued upto 24th March, 1971 (midnight)\n\n7. Passport issued by the Government of India upto 24th March, 1971 (midnight)\n\n8.",
+        "text": "Permanent Residential Certificate issued from outside the State upto 24th March, 1971 (midnight) (which all should be got verified from the issuing authority by the Registering authority)6. Refugee registration certificate issued upto 24th March, 1971 (midnight)7. Passport issued by the Government of India upto 24th March, 1971 (midnight)8.",
         "labels": [
             "O",
             "O",
@@ -29079,7 +29054,7 @@
         ]
     },
     "5f5c635012394ad29f9c75005205cbbf": {
-        "text": "Such actions would inherently affect women Indian Young Lawyers Assn. v. State of Kerala, 2018 SCC OnLine SC 1690, (Chandrachud J., concurring opinion, paragraph 117); Joseph Shine v. Union of India, 2018 SC OnLine SC 1676, (Chandrachud J, concurring opinion, para 38) (\u201cJoseph Shine\u201d)",
+        "text": "Such actions would inherently affect women Indian Young Lawyers Assn. v. State of Kerala, 2018 SCC OnLine SC 1690, (Chandrachud J., concurring opinion, paragraph 117); Joseph Shine v. Union of India, 2018 SC OnLine SC 1676, (Chandrachud J, concurring opinion, para 38) (\"Joseph Shine\")",
         "labels": [
             "O",
             "O",
@@ -29182,7 +29157,7 @@
         ]
     },
     "0643eca76c29429b86cc063ff01a26df": {
-        "text": "\n Likewise, In the power of attorney (exhibit P/116) executed between Rajendra Kumar & others and Atul Surana, the plaintiff signed as a witness with name of Satish Sharma s/o Shankarlal R/o 78A Parashnand Nagar, Indore.",
+        "text": " Likewise, In the power of attorney (exhibit P/116) executed between Rajendra Kumar & others and Atul Surana, the plaintiff signed as a witness with name of Satish Sharma s/o Shankarlal R/o 78A Parashnand Nagar, Indore.",
         "labels": [
             "O",
             "O",
@@ -29298,7 +29273,7 @@
         ]
     },
     "74586e96230849bfa2bf29e1b9cbf532": {
-        "text": "In Thalappalam Service Co- operative Bank Ltd. v. State of Kerala [(2013) 16 SCC 82] the Apex Court has discussed the autonomy of co-operatives vis-\u00e0- vis the constitutional provisions.",
+        "text": "In Thalappalam Service Co- operative Bank Ltd. v. State of Kerala [(2013) 16 SCC 82] the Apex Court has discussed the autonomy of co-operatives vis-a- vis the constitutional provisions.",
         "labels": [
             "O",
             "B_PRECEDENT",
@@ -29536,7 +29511,7 @@
         ]
     },
     "fe3c1a0ee6d5456dac32d3e9d87bc4c7": {
-        "text": "\n\n (c) The aforesaid cheque was presented by the complainant for payment through her banker -Canara Bank, Karol Bagh, New Delhi for its encashment, however the same was returned as dishonoured vide cheque returning memo dated 12.06.2010 with the remarks \"account closed\".",
+        "text": " (c) The aforesaid cheque was presented by the complainant for payment through her banker -Canara Bank, Karol Bagh, New Delhi for its encashment, however the same was returned as dishonoured vide cheque returning memo dated 12.06.2010 with the remarks \"account closed\".",
         "labels": [
             "O",
             "O",
@@ -29792,7 +29767,7 @@
         ]
     },
     "e8452e189b384651bb17914e32a530e5": {
-        "text": "The prayers in the Tabular Statement of that execution application were as follows:-\n\n \"(a) A Learned Advocate of this Hon'ble Court or any other suitable person be appointed as Receiver in terms of the order dated 17th March, 2009.",
+        "text": "The prayers in the Tabular Statement of that execution application were as follows:- \"(a) A Learned Advocate of this Hon'ble Court or any other suitable person be appointed as Receiver in terms of the order dated 17th March, 2009.",
         "labels": [
             "O",
             "O",
@@ -30018,9 +29993,8 @@
         ]
     },
     "9088f3a67f454071b671cd6ead90db36": {
-        "text": "Underhills considers defamatory statement as 'one which imputes conduct or qualifies tending to disparage or degrade any person, or to expose him to contempt, ridicule or public hatred or to prejudice him in the way of his office, profession or trade'. \n\n ",
+        "text": "Underhills considers defamatory statement as 'one which imputes conduct or qualifies tending to disparage or degrade any person, or to expose him to contempt, ridicule or public hatred or to prejudice him in the way of his office, profession or trade'. ",
         "labels": [
-            "O",
             "O",
             "O",
             "O",
@@ -30066,7 +30040,7 @@
         ]
     },
     "f83ef2e3c9b64a49b70a2d3fa611a14c": {
-        "text": "On 19.12.2012, the learned Single Judge, in connected writ petition No.1980 of 2008,\nwhile refusing the interim relief passed the following order :-\n \"Meaning thereby the action of the respondents therein, in respect of land acquisition and the establishment of project by the respondents therein was upheld by the Apex court and thereafter award was delivered in the matter on 30.10.2004.",
+        "text": "On 19.12.2012, the learned Single Judge, in connected writ petition No.1980 of 2008,while refusing the interim relief passed the following order :- \"Meaning thereby the action of the respondents therein, in respect of land acquisition and the establishment of project by the respondents therein was upheld by the Apex court and thereafter award was delivered in the matter on 30.10.2004.",
         "labels": [
             "O",
             "B_DATE",
@@ -30193,7 +30167,7 @@
         ]
     },
     "ef43202b161b4567a21288b387cf09b1": {
-        "text": "To ensure the ____________ https://www.mhc.tn.gov.in/judis W.P.Nos.1830, 4130 & 4109 of 2022 weight, weigh bridges to be commissioned at both the entry points (i.e.) at Bannari Check post and at Hasanur. \n\n 7) Commercial Vehicles (like lorries) will not be allowed to used the ghat road from evening 6.00 P.M to morning 6.00 A.M in interest and welfare of wild animals.",
+        "text": "To ensure the ____________ https://www.mhc.tn.gov.in/judis W.P.Nos.1830, 4130 & 4109 of 2022 weight, weigh bridges to be commissioned at both the entry points (i.e.) at Bannari Check post and at Hasanur. 7) Commercial Vehicles (like lorries) will not be allowed to used the ghat road from evening 6.00 P.M to morning 6.00 A.M in interest and welfare of wild animals.",
         "labels": [
             "O",
             "O",
@@ -30225,7 +30199,6 @@
             "O",
             "O",
             "B_GPE",
-            "O",
             "O",
             "O",
             "O",
@@ -30657,7 +30630,7 @@
         ]
     },
     "d691ca8a44c045e5bb5ec66e0ea75133": {
-        "text": "This is what the Bombay High Court in Konkola Copper Mines (supra) also interpreted BALCO (supra) as holding:\n \"The Supreme Court held that the provisions of Section 2(1)(e) are purely jurisdictional in nature and can have no relevance to the question whether any part of the cause of action has taken place outside India.",
+        "text": "This is what the Bombay High Court in Konkola Copper Mines (supra) also interpreted BALCO (supra) as holding: \"The Supreme Court held that the provisions of Section 2(1)(e) are purely jurisdictional in nature and can have no relevance to the question whether any part of the cause of action has taken place outside India.",
         "labels": [
             "O",
             "O",
@@ -30833,7 +30806,7 @@
         ]
     },
     "c2c0f8a104594d9f9b4683e730cdc8bc": {
-        "text": "\n\n18) It is in this conspectus, this Court is to first determine the question of liability of tax under Section 6 of the Bihar Act and in the event this tax is upheld, question of penalty and interest would have to be determined.",
+        "text": "18) It is in this conspectus, this Court is to first determine the question of liability of tax under Section 6 of the Bihar Act and in the event this tax is upheld, question of penalty and interest would have to be determined.",
         "labels": [
             "O",
             "O",
@@ -30881,7 +30854,7 @@
         ]
     },
     "192bec8726464b2ea7fd9ba61259a0d9": {
-        "text": "In Pierce Leslie and Co. Ltd. Vs. Miss Violet Ouchterlony Wapsnare, AIR 1969 SC 843, Court has considered the above principle in the context of 'Sovereign India' as stands under Constitution after independence, and, has observed :\n\"....in this country the Government takes by escheat immoveable as well as moveable property for want of an heir or successor.",
+        "text": "In Pierce Leslie and Co. Ltd. Vs. Miss Violet Ouchterlony Wapsnare, AIR 1969 SC 843, Court has considered the above principle in the context of 'Sovereign India' as stands under Constitution after independence, and, has observed :\"....in this country the Government takes by escheat immoveable as well as moveable property for want of an heir or successor.",
         "labels": [
             "O",
             "B_PRECEDENT",
@@ -30958,7 +30931,7 @@
         ]
     },
     "ad207ce6e2e24233897182d4694d4a9b": {
-        "text": "Reason:\n is whether the second appeal for enhancement of sentence was maintainable before the High court as the High court has set aside the order of the Sessions Court and restored the order of the trial Court.",
+        "text": "Reason: is whether the second appeal for enhancement of sentence was maintainable before the High court as the High court has set aside the order of the Sessions Court and restored the order of the trial Court.",
         "labels": [
             "O",
             "O",
@@ -31000,7 +30973,7 @@
         ]
     },
     "39cb44022a7247aa8dc8df55de5a12c4": {
-        "text": "\n\n 6.2 I have also considered the various judgments cited at the Bar.",
+        "text": " 6.2 I have also considered the various judgments cited at the Bar.",
         "labels": [
             "O",
             "O",
@@ -31018,7 +30991,7 @@
         ]
     },
     "c8356c39bc794c9c906010329f465a3e": {
-        "text": "The law of vicarious liability under Section 149 IPC is crystal clear that even the presence in the unlawful assembly, but with an active mind, to achieve the common object makes such a person vicariously liable for the acts of the unlawful assembly.\u201d\n\n 24.",
+        "text": "The law of vicarious liability under Section 149 IPC is crystal clear that even the presence in the unlawful assembly, but with an active mind, to achieve the common object makes such a person vicariously liable for the acts of the unlawful assembly.\" 24.",
         "labels": [
             "O",
             "O",
@@ -31067,7 +31040,7 @@
         ]
     },
     "d58d565ef6ab4798b3b6e711d2fb4414": {
-        "text": "In the plaint, it is pleaded in para 11 that, \"...That the defendant again contacted the plaintiffs and asked for a further payment of Rs. 5,00,000/\u00ad (Rupees Five Lacs only) for his need.",
+        "text": "In the plaint, it is pleaded in para 11 that, \"...That the defendant again contacted the plaintiffs and asked for a further payment of Rs. 5,00,000/- (Rupees Five Lacs only) for his need.",
         "labels": [
             "O",
             "O",
@@ -31255,7 +31228,7 @@
         ]
     },
     "8646716fc7b5476c8e88cdaefb610522": {
-        "text": "The respondent M/s. Ultratech Cement Ltd. (hereinafter referred to as the \u2018assessee\u2019) is involved in packing and clearing/forwarding of Signature Not Verified Digitally signed by ASHWANI KUMAR cement classifiable under Chapter sub heading 25232910 of Central Date: 2018.02.01 16:44:38 IST",
+        "text": "The respondent M/s. Ultratech Cement Ltd. (hereinafter referred to as the 'assessee') is involved in packing and clearing/forwarding of Signature Not Verified Digitally signed by ASHWANI KUMAR cement classifiable under Chapter sub heading 25232910 of Central Date: 2018.02.01 16:44:38 IST",
         "labels": [
             "O",
             "O",
@@ -31425,7 +31398,7 @@
         ]
     },
     "758c07c62d39481b8eaa4fd85136df15": {
-        "text": "\n\n 2011 (2) SCR 831- a view followed later, in State of U.P. v. Ashok Kumar Srivastava, (2014) 14 SCC 720 and, more recently, endorsed in K. Meghachandra Singh v. Ningam Siro (2020) 5 SCC 689 that \u201cseniority should not be reckoned retrospectively unless it is so expressly provided by the relevant Service Rules.",
+        "text": " 2011 (2) SCR 831- a view followed later, in State of U.P. v. Ashok Kumar Srivastava, (2014) 14 SCC 720 and, more recently, endorsed in K. Meghachandra Singh v. Ningam Siro (2020) 5 SCC 689 that \"seniority should not be reckoned retrospectively unless it is so expressly provided by the relevant Service Rules.",
         "labels": [
             "O",
             "B_PRECEDENT",
@@ -31656,18 +31629,18 @@
         ]
     },
     "7c244e9abbd642f3bea044e085caada9": {
-        "text": "\n\nLAC No. 261/16 Rajesh Gupta Vs UOI & Anr. 16/21",
+        "text": "LAC No. 261/16 Rajesh Gupta Vs UOI & Anr. 16/21",
         "labels": [
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "B_PRECEDENT"
+            "B_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT"
         ]
     },
     "12385b3187b04890b598134061c101a1": {
@@ -32115,7 +32088,7 @@
         ]
     },
     "96d3660d590148278dd2e70b62e7adb9": {
-        "text": "\n\n Crawford, on statutory construction has observed; which has been followed by a number of judgments by the Hon'ble Supreme Court;\n \"the question as to whether a statute is mandatory or directory depends upon the intent of the Legislature and not upon the language in which the intent is clothed.",
+        "text": " Crawford, on statutory construction has observed; which has been followed by a number of judgments by the Hon'ble Supreme Court; \"the question as to whether a statute is mandatory or directory depends upon the intent of the Legislature and not upon the language in which the intent is clothed.",
         "labels": [
             "O",
             "B_OTHER_PERSON",
@@ -32136,6 +32109,8 @@
             "O",
             "O",
             "O",
+            "B_COURT",
+            "I_COURT",
             "O",
             "O",
             "O",
@@ -32164,13 +32139,11 @@
             "O",
             "O",
             "O",
-            "O",
-            "O",
-            "B_COURT"
+            "O"
         ]
     },
     "9a59aba1d4b542a8b39c3161eaeaefc8": {
-        "text": "\n\n15) In Parmeshwari v. Amirchand the Apex Court was dealing with a situation where on 22.01.2003 at about 12.00 noon the appellant therein, the claimant before the Tribunal, respondent No.1 before the High Court, was going from Baganwala to Tosham on a Motor Cycle (No.HR 16C- 8379), driven by Balwan with the claimant on the pillion seat.",
+        "text": "15) In Parmeshwari v. Amirchand the Apex Court was dealing with a situation where on 22.01.2003 at about 12.00 noon the appellant therein, the claimant before the Tribunal, respondent No.1 before the High Court, was going from Baganwala to Tosham on a Motor Cycle (No.HR 16C- 8379), driven by Balwan with the claimant on the pillion seat.",
         "labels": [
             "O",
             "O",
@@ -32232,7 +32205,7 @@
         ]
     },
     "37c2a4d32d4a4fc68b75191553e01068": {
-        "text": "The order granting or refusing the bail is therefore very much an order against which an appeal is permifted under Secfibn 21(1) of the Act.\" \n\n ",
+        "text": "The order granting or refusing the bail is therefore very much an order against which an appeal is permifted under Secfibn 21(1) of the Act.\" ",
         "labels": [
             "O",
             "O",
@@ -32256,7 +32229,6 @@
             "O",
             "B_PROVISION",
             "I_PROVISION",
-            "O",
             "O",
             "O",
             "O",
@@ -32362,7 +32334,7 @@
         ]
     },
     "38f6dc831a2149f99ea611edec310440": {
-        "text": " : (per the Hon'ble Sri Justice N.Balayogi)\n\n\n The appellant in M.A.C.M.A.No.685 of 2006 is the claimant and the appellant in M.A.C.M.A.No.1233 of 2006 is the New India Assurance Company Limited.",
+        "text": " : (per the Hon'ble Sri Justice N.Balayogi) The appellant in M.A.C.M.A.No.685 of 2006 is the claimant and the appellant in M.A.C.M.A.No.1233 of 2006 is the New India Assurance Company Limited.",
         "labels": [
             "O",
             "O",
@@ -32371,7 +32343,7 @@
             "O",
             "O",
             "O",
-            "O",
+            "B_JUDGE",
             "O",
             "O",
             "O",
@@ -32505,7 +32477,7 @@
         ]
     },
     "6e1eb07fb5cb4ef7a37b80e8b67e41ec": {
-        "text": "The two judgments (1) Punjab Land Development and Reclamation Corporation Ltd., Chandigarh vs. President Officer, Labour Court, Chandigarh and Others MANU/SC/0479/1990 : (1990)IILLJ70SC : (1990)IILLJ70SC and (2) State of U.P. and Another vs. Synthetics and chemicals Ltd. and Another MANU/SC/0616/1991 :\n1993(41)ECC326 : 1993(41)ECC326 were cited in support of the argument.",
+        "text": "The two judgments (1) Punjab Land Development and Reclamation Corporation Ltd., Chandigarh vs. President Officer, Labour Court, Chandigarh and Others MANU/SC/0479/1990 : (1990)IILLJ70SC : (1990)IILLJ70SC and (2) State of U.P. and Another vs. Synthetics and chemicals Ltd. and Another MANU/SC/0616/1991 :1993(41)ECC326 : 1993(41)ECC326 were cited in support of the argument.",
         "labels": [
             "O",
             "O",
@@ -32534,29 +32506,29 @@
             "I_PRECEDENT",
             "O",
             "O",
-            "B_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
-            "I_PRECEDENT",
             "O",
             "O",
             "O",
             "O",
             "O",
             "O",
-            "O"
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B_PRECEDENT"
         ]
     },
     "f2f3ef3f86204af1ade4b19d09b4150d": {
@@ -32592,8 +32564,9 @@
         ]
     },
     "1e8e4f462517449c9727229fc0d7dc29": {
-        "text": "\u00a0\u00a0\n17.1 It is also required to be noted that even otherwise so far as Accused No. 5 is concerned, the prosecution has even failed to prove beyond doubt that in fact Accused No. 5 fired from his firearm, which as such has missed, as alleged.",
+        "text": " 17.1 It is also required to be noted that even otherwise so far as Accused No. 5 is concerned, the prosecution has even failed to prove beyond doubt that in fact Accused No. 5 fired from his firearm, which as such has missed, as alleged.",
         "labels": [
+            "O",
             "O",
             "O",
             "O",
@@ -32687,7 +32660,7 @@
         ]
     },
     "50701afc825e455bb3c10344f5f0aedf": {
-        "text": "It is also relevant to mention that the Supreme Court in (1996) 7 SCC 765, Keshabo and another vs. State of MP and Others, held as under:-\n ''The MP Revenue Code is a welfare legislation made to protect the ownership rights in the land of a Scheduled Tribe to effectuate the constitutional obligation of Articles 39(b) and 46 of the Constitution read with the Preamble.",
+        "text": "It is also relevant to mention that the Supreme Court in (1996) 7 SCC 765, Keshabo and another vs. State of MP and Others, held as under:- ''The MP Revenue Code is a welfare legislation made to protect the ownership rights in the land of a Scheduled Tribe to effectuate the constitutional obligation of Articles 39(b) and 46 of the Constitution read with the Preamble.",
         "labels": [
             "O",
             "O",
@@ -33077,7 +33050,7 @@
         ]
     },
     "c46bc83ffbed42198454c99bbfff88af": {
-        "text": "In view of the definitions of \u201emark\u201f and \u201etrademark\u201f under the Trade Marks Act, a trademark for becoming a trademark will firstly have to be a mark under Section 2(m) of the Trade Marks Act i.e before the trademark would be a trademark under the Trade Marks Act there must be a mark and which falls within the definition of \u201emark\u201f under the Trade Marks Act.",
+        "text": "In view of the definitions of \"mark\" and \"trademark\" under the Trade Marks Act, a trademark for becoming a trademark will firstly have to be a mark under Section 2(m) of the Trade Marks Act i.e before the trademark would be a trademark under the Trade Marks Act there must be a mark and which falls within the definition of \"mark\" under the Trade Marks Act.",
         "labels": [
             "O",
             "O",
@@ -33880,7 +33853,7 @@
         ]
     },
     "1246e495396c4ba1b6c672866591ba1c": {
-        "text": "\n\n(8) Pending appeal, mother passed away and during her lifetime, she executed a registered will deed dated 20.10.1986, bequeathing her entire share in favour of Defendant No.1 only.",
+        "text": "(8) Pending appeal, mother passed away and during her lifetime, she executed a registered will deed dated 20.10.1986, bequeathing her entire share in favour of Defendant No.1 only.",
         "labels": [
             "O",
             "O",
@@ -33913,7 +33886,7 @@
         ]
     },
     "47c1297dd6e84e23b7898b3357acd0ae": {
-        "text": "In this connection, it would be apt to refer to the decision of the Supreme Court in Central Bank of India Vs. C.L.Vimla (supra), relevant portion of which is extracted hereunder:\n 21.",
+        "text": "In this connection, it would be apt to refer to the decision of the Supreme Court in Central Bank of India Vs. C.L.Vimla (supra), relevant portion of which is extracted hereunder: 21.",
         "labels": [
             "O",
             "O",
@@ -33950,7 +33923,7 @@
         ]
     },
     "fdd4d3668fc346beb6928a9e33791cbe": {
-        "text": "This point is made not to solicit pity but to bring attention to the fact that any individual could be caught in a similar web and find himself inside a pit such as Folsom Prison.\"\n iii) The Apex Court in the said judgment formulated its findings which are as under:\n KL,J W.P. Nos.20421 of 2019 & batch \"72.",
+        "text": "This point is made not to solicit pity but to bring attention to the fact that any individual could be caught in a similar web and find himself inside a pit such as Folsom Prison.\" iii) The Apex Court in the said judgment formulated its findings which are as under: KL,J W.P. Nos.20421 of 2019 & batch \"72.",
         "labels": [
             "O",
             "O",
@@ -34162,7 +34135,7 @@
         ]
     },
     "da8b9b936c694016993ade4272a662a6": {
-        "text": "\n\n (vii) Whether the sub-classification of MBC into three categories can be done solely based on adequate population data, in the absence of any objective criteria?\u201d\n\n12.",
+        "text": " (vii) Whether the sub-classification of MBC into three categories can be done solely based on adequate population data, in the absence of any objective criteria?\"12.",
         "labels": [
             "O",
             "O",
@@ -34320,7 +34293,7 @@
         ]
     },
     "37abbf6571274fd2bcbf403a28af8b5f": {
-        "text": ", relied upon the following judgments:\n\n (i) An unreported judgment of this Court in W.P.No.13320/2006 dated 22.09.2006 paragraphs 2,4,5,9,10. \n\n (ii) B.Javarayagouda S/o Boregouda vs. The State of Karnataka, reported in ILR 1997 KAR 1153, para 17. \n\n (iii) Full Bench decision of this Court in the case of R. Prasanna Kumar & another vs. The State of Karnataka reported in ILR 1999 KAR 1378 para 25.",
+        "text": ", relied upon the following judgments: (i) An unreported judgment of this Court in W.P.No.13320/2006 dated 22.09.2006 paragraphs 2,4,5,9,10. (ii) B.Javarayagouda S/o Boregouda vs. The State of Karnataka, reported in ILR 1997 KAR 1153, para 17. (iii) Full Bench decision of this Court in the case of R. Prasanna Kumar & another vs. The State of Karnataka reported in ILR 1999 KAR 1378 para 25.",
         "labels": [
             "O",
             "O",
@@ -34342,7 +34315,6 @@
             "O",
             "O",
             "O",
-            "O",
             "B_PRECEDENT",
             "I_PRECEDENT",
             "I_PRECEDENT",
@@ -34357,7 +34329,6 @@
             "I_PRECEDENT",
             "I_PRECEDENT",
             "I_PRECEDENT",
-            "O",
             "O",
             "O",
             "O",
@@ -34406,7 +34377,7 @@
         ]
     },
     "44bd3a81c8ec4db1ac2187a9323b087c": {
-        "text": "On the facts of that case, on 28.02.2017, a learned Single Judge of the Delhi High Court ruled that Antrix\u2019s petition under Section 9 of the Ar- bitration Act, 1996 before the Bangalore Court was not maintainable, and that Devas\u2019 petition under Section 9 was maintainable, the bar under Section 42 of the Arbitration Act, 1996 being inapplicable.",
+        "text": "On the facts of that case, on 28.02.2017, a learned Single Judge of the Delhi High Court ruled that Antrix's petition under Section 9 of the Ar- bitration Act, 1996 before the Bangalore Court was not maintainable, and that Devas' petition under Section 9 was maintainable, the bar under Section 42 of the Arbitration Act, 1996 being inapplicable.",
         "labels": [
             "O",
             "O",
@@ -34427,7 +34398,7 @@
             "I_COURT",
             "O",
             "O",
-            "O",
+            "B_OTHER_PERSON",
             "O",
             "O",
             "B_PROVISION",
@@ -34447,7 +34418,7 @@
             "O",
             "O",
             "O",
-            "B_OTHER_PERSON",
+            "O",
             "O",
             "O",
             "B_PROVISION",
@@ -34607,7 +34578,7 @@
         ]
     },
     "d41e9d25d2024c818eb2483619061e9e": {
-        "text": "\n\n P.W.5 Ranvir Singh deposed that he was travelling in the bus-in-question and had suffered injuries on account of the bomb blast.",
+        "text": " P.W.5 Ranvir Singh deposed that he was travelling in the bus-in-question and had suffered injuries on account of the bomb blast.",
         "labels": [
             "O",
             "O",
@@ -34634,7 +34605,7 @@
         ]
     },
     "ed432f8fcfa940cdb9326b646b6d8c83": {
-        "text": "\n\n The present appeal arises out of the judgment and order dated 6\u00ad11\u00ad2019 passed by the Division Bench of the Gauhati High Court, Aizawl Bench in Writ Appeal No.2 of 2018 dismissing the Writ Appeal filed by the appellants.",
+        "text": " The present appeal arises out of the judgment and order dated 6-11-2019 passed by the Division Bench of the Gauhati High Court, Aizawl Bench in Writ Appeal No.2 of 2018 dismissing the Writ Appeal filed by the appellants.",
         "labels": [
             "O",
             "O",
@@ -35605,7 +35576,7 @@
         ]
     },
     "d8ed0ac73d844471b73082a256527ea1": {
-        "text": "Once the issue was raised, it was only the petitioner who could have categorically denied such assertion or proved that his statement in the application form was correct at the relevant time.\n Not having done so and only nitpicking on the issue of not having been given an opportunity of cross",
+        "text": "Once the issue was raised, it was only the petitioner who could have categorically denied such assertion or proved that his statement in the application form was correct at the relevant time. Not having done so and only nitpicking on the issue of not having been given an opportunity of cross",
         "labels": [
             "O",
             "O",
@@ -35920,7 +35891,7 @@
         ]
     },
     "171cf9b3b37446e890b02c3f9446acc9": {
-        "text": "\n Commercial Complex, Raj Bhavan Road, Hyderabad-02 13",
+        "text": " Commercial Complex, Raj Bhavan Road, Hyderabad-02 13",
         "labels": [
             "O",
             "O",
@@ -35933,7 +35904,7 @@
         ]
     },
     "78334b11da44475b8fed6af285d9ca12": {
-        "text": "In other words, if the court is convinced that the testimony of a witness to the occurrence is true the court is free to act on it albeit investigating officer's suspicious role in the case.\" \n\nThe learned Prosecutor has also relied on the decision of Hon'ble High Court of Madhya Pradesh in CRA No.2615/2005 (Sukhendra Singh S/o Niranjan Singh Ghosh Vs. State of Madhya Pradesh)",
+        "text": "In other words, if the court is convinced that the testimony of a witness to the occurrence is true the court is free to act on it albeit investigating officer's suspicious role in the case.\" The learned Prosecutor has also relied on the decision of Hon'ble High Court of Madhya Pradesh in CRA No.2615/2005 (Sukhendra Singh S/o Niranjan Singh Ghosh Vs. State of Madhya Pradesh)",
         "labels": [
             "O",
             "O",
@@ -36003,7 +35974,7 @@
         ]
     },
     "771f68c8a7d74815b24fe71504b4488a": {
-        "text": "Making a clear distinction between a charging provision of a taxing statute and exemption notification which waives a tax or a levy normally imposed, the Supreme Court observed as under:-\n\n \"14.",
+        "text": "Making a clear distinction between a charging provision of a taxing statute and exemption notification which waives a tax or a levy normally imposed, the Supreme Court observed as under:- \"14.",
         "labels": [
             "O",
             "O",
@@ -36286,7 +36257,7 @@
         ]
     },
     "45e316a861e74172ad2fcf43662c2d9a": {
-        "text": "The majority judgment also noted:\n \"Of significance to the interpretation of the Patent Act and the issue of its applicability to higher life forms is the Plant Breeders' Rights Act, passed in 1990 subsequent to this Court's decision in Pioneer Hi-Bred,supra, in which it was determined that a crossbred soybean variety did not meet the disclosure requirements of the Patent Act.",
+        "text": "The majority judgment also noted: \"Of significance to the interpretation of the Patent Act and the issue of its applicability to higher life forms is the Plant Breeders' Rights Act, passed in 1990 subsequent to this Court's decision in Pioneer Hi-Bred,supra, in which it was determined that a crossbred soybean variety did not meet the disclosure requirements of the Patent Act.",
         "labels": [
             "O",
             "O",
@@ -36382,7 +36353,7 @@
         ]
     },
     "909c78bbb5494f91804d94809ac8cd77": {
-        "text": "Lord Goff also noted that Sir Thomas Bingham M.R. in the Court of Appeal expressed his agreement with Sir Stephen Brown P. in the following words:-\n\n \"This was in my respectful view a wise ruling, directed to the protection of patients, the protection of doctors, the reassurance of patients' families and the reassurance of the public.",
+        "text": "Lord Goff also noted that Sir Thomas Bingham M.R. in the Court of Appeal expressed his agreement with Sir Stephen Brown P. in the following words:- \"This was in my respectful view a wise ruling, directed to the protection of patients, the protection of doctors, the reassurance of patients' families and the reassurance of the public.",
         "labels": [
             "O",
             "B_OTHER_PERSON",
@@ -36598,7 +36569,7 @@
         ]
     },
     "08b8c128681b473d88892af6b6c475a0": {
-        "text": "\n\n c) By that time, Smt.Vijayalakshmi, her husband, he, CW-2 and police were present.",
+        "text": " c) By that time, Smt.Vijayalakshmi, her husband, he, CW-2 and police were present.",
         "labels": [
             "O",
             "O",
@@ -36617,7 +36588,7 @@
         ]
     },
     "833f83f1b593406693bb9085d882c358": {
-        "text": "\n\n6.1.3 In P.A. Inamdar (supra), the Supreme Court while answering question no. 3 held that every institution is free to devise its own fee structure but the same can be regulated in the interest of preventing profiteering.",
+        "text": "6.1.3 In P.A. Inamdar (supra), the Supreme Court while answering question no. 3 held that every institution is free to devise its own fee structure but the same can be regulated in the interest of preventing profiteering.",
         "labels": [
             "O",
             "O",
@@ -36780,7 +36751,7 @@
         ]
     },
     "afb829a23f014be3988a6eca51c5ad61": {
-        "text": "\n\n7.1 Relying upon decision of Delhi High Court, in the case of Jayachandran Alloys (P) Ltd. Vs. Superintendent of GST & C. Ex., Salem 2019 (25) G.S.T.L. 321 (Mad.), Madras High Court has concluded, in the relevant Paras as below:\n \" 36.",
+        "text": "7.1 Relying upon decision of Delhi High Court, in the case of Jayachandran Alloys (P) Ltd. Vs. Superintendent of GST & C. Ex., Salem 2019 (25) G.S.T.L. 321 (Mad.), Madras High Court has concluded, in the relevant Paras as below: \" 36.",
         "labels": [
             "O",
             "O",
@@ -36994,7 +36965,7 @@
         ]
     },
     "ba2cd0712d9744bea0b30c039642f1ba": {
-        "text": "\n\n51) The learned counsel for the respondents relied upon the judgment of in Hindustan Wires Limited v. R.Suresh (6 supra) and also N.B.C.C. Limited (12 supra), to contend that as the time period for conclusion of proceedings had expired and in the absence of any application seeking extension of time, the arbitrator ceases to have jurisdiction.",
+        "text": "51) The learned counsel for the respondents relied upon the judgment of in Hindustan Wires Limited v. R.Suresh (6 supra) and also N.B.C.C. Limited (12 supra), to contend that as the time period for conclusion of proceedings had expired and in the absence of any application seeking extension of time, the arbitrator ceases to have jurisdiction.",
         "labels": [
             "O",
             "O",
@@ -37055,7 +37026,7 @@
         ]
     },
     "1da279e7eba145fb986ccea2c1c1a9c2": {
-        "text": "Unless a person was saddled with any liability in any manner under Section 110-B, he would not be a \"person aggrieved\" within the meaning of the term employed in Section 110-D. ................................................. (3) AIR 1993 Jammu and Kashmir 69 [Nahar Singh and another v. Manohar Kumar and others]:\n 6.",
+        "text": "Unless a person was saddled with any liability in any manner under Section 110-B, he would not be a \"person aggrieved\" within the meaning of the term employed in Section 110-D. ................................................. (3) AIR 1993 Jammu and Kashmir 69 [Nahar Singh and another v. Manohar Kumar and others]: 6.",
         "labels": [
             "O",
             "O",
@@ -37090,22 +37061,22 @@
             "I_PROVISION",
             "O",
             "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "O",
-            "B_PRECEDENT"
+            "B_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "I_PRECEDENT",
+            "O"
         ]
     },
     "41090c2f6edb4aeaa26b661f7327ac78": {
@@ -37308,7 +37279,7 @@
         ]
     },
     "6e97761568e24a0d9021a3d94bec2a04": {
-        "text": "Coming back to Jagrutiben, she was not an eye\u00adwitness, admittedly, and has no personal knowledge and it is apparent from the report she has stated that the deceased left the house for a morning walk at around 0645 hours/0700 hours.",
+        "text": "Coming back to Jagrutiben, she was not an eye-witness, admittedly, and has no personal knowledge and it is apparent from the report she has stated that the deceased left the house for a morning walk at around 0645 hours/0700 hours.",
         "labels": [
             "O",
             "O",
@@ -37888,7 +37859,7 @@
         ]
     },
     "41466b1248a24bceae6e32dc970aaac8": {
-        "text": "That, on conclusion of the trial, the learned Additional Sessions Judge, Fast Track Court, Kashipur, District Udham Singh Nagar (hereinafter referred to as \u201cthe trial Court\u201d) held all the accused guilty for the offences under Sections 302/149 of the IPC and sentenced them to undergo life imprisonment and a fine of Rs.2,000/\u00ad each and, in case of default in paying the fine, to undergo one year RI.",
+        "text": "That, on conclusion of the trial, the learned Additional Sessions Judge, Fast Track Court, Kashipur, District Udham Singh Nagar (hereinafter referred to as \"the trial Court\") held all the accused guilty for the offences under Sections 302/149 of the IPC and sentenced them to undergo life imprisonment and a fine of Rs.2,000/- each and, in case of default in paying the fine, to undergo one year RI.",
         "labels": [
             "O",
             "O",
